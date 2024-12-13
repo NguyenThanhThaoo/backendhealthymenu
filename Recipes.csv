@@ -1,5 +1,5 @@
 _id,title,type0fgroup,typeoffood,status,Calo,Carbohydrate,Protein,fat,fiber,Sodium,VitaminC,Purine,sugar,Cholesterol,iron,description,image_path,ingredient,methob,createdAt,updatedAt
-67441138c36b585cf943d3f6,Salad cam cà chua sốt dầu giấm tỏi,Món ăn,Món ăn,Tiểu đường,120.0,20.0,2.0,8.0,4.5,0.25,0.07,0.015,9.0,0.0,0.0015,null,static/salad-cam-ca-chua-dau-giam.jpg,"2 quả Mỹ cam tươi, gọt vỏ, tách múi và cắt miếng vừa ăn;
+67441138c36b585cf943d3f6,Salad cam cà chua sốt dầu giấm tỏi,Món ăn,Món ăn,Tiểu đường,120.0,20.0,2.0,8.0,4.5,0.25,0.07,0.015,9.0,0.0,0.0015,"Calo: 120, Carbohydrate: 20, Protein: 2, Fat: 8, Fiber: 4.5, Sodium: 0.25, VitaminC: 0.07, Purine: 0.015, Sugar: 9, Cholesterol: 0, Iron: 0.0015",static/salad-cam-ca-chua-dau-giam.jpg,"2 quả Mỹ cam tươi, gọt vỏ, tách múi và cắt miếng vừa ăn;
 2 quả cà chua, rửa sạch và cắt lát mỏng;
 1/2 củ hành tây nhỏ, thái lát mỏng;
 1/2 quả dưa leo, rửa sạch và thái lát mỏng;
@@ -21,7 +21,7 @@ Trong một bát lớn, cho cam, cà chua, hành tây, dưa leo và rau xà lác
 Nhẹ nhàng trộn đều các nguyên liệu để sốt dầu giấm thấm đều vào rau củ và cam.
 Thưởng thức:
 Cho salad ra đĩa, rắc một ít rau mùi lên trên để tăng thêm hương vị.
-Thưởng thức ngay khi salad còn tươi ngon.",2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+Thưởng thức ngay khi salad còn tươi ngon.",2024-11-28 07:53:04.878,2024-12-08 16:46:43.314
 67441138c36b585cf943d3f7,Sinh tố cam cà rốt táo,Đồ uống,Sinh tố,Tiểu đường,135.0,33.0,1.0,0.4,6.0,0.075,0.08,0.015,22.5,0.0,0.00075,"Calo: 135, Carbohydrate: 33, Protein: 1, Fat: 0.4, Fiber: 6, Sodium: 0.075, VitaminC: 0.08, Purine: 0.015, Sugar: 22.5, Cholesterol: 0, Iron: 0.00075",static/uploads/dishes/sinh-to-cam-ca-rot-tao.jpg,"1 quả cam sành, gọt vỏ và tách múi;
 1 củ cà rốt nhỏ, gọt vỏ và cắt nhỏ;
 1 quả táo xanh, gọt vỏ, bỏ hạt và cắt miếng;
@@ -192,7 +192,7 @@ Cho 50 ml nước mắm và 50g đường vào nồi, khuấy đều cho tan, đ
 Khi nước mắm nguội, thêm 10g ớt hiểm vào khuấy đều.
 Làm mận xóc da heo: 
 Cho mận và da heo vào lọ nhựa to, thêm 30g tép khô, 10g ớt khô và 10g rau răm cắt nhỏ. Rưới nước sốt lên và xóc đều, sau đó bày ra đĩa.",2024-11-28 07:53:04.878,2024-11-29 17:08:52.168
-67441138c36b585cf943d400,Salad cồi sò điệp thanh long đỏ,Món ăn,Món ăn,Tiểu đường,250.0,18.0,20.0,11.0,3.5,0.4,0.06,0.075,6.0,0.06,0.0025,null,static/uploads/dishes/Salad-coi-so-diep-thanh-long-do.jpg,"200g cồi sò điệp;
+67441138c36b585cf943d400,Salad cồi sò điệp thanh long đỏ,Món ăn,Món ăn,Tiểu đường,250.0,18.0,20.0,11.0,3.5,0.4,0.06,0.075,6.0,0.06,0.0025,"Calo: 250, Carbohydrate: 18, Protein: 20, Fat: 11, Fiber: 3.5, Sodium: 0.4, VitaminC: 0.06, Purine: 0.075, Sugar: 6, Cholesterol: 0.06, Iron: 0.0025",static/uploads/dishes/Salad-coi-so-diep-thanh-long-do.jpg,"200g cồi sò điệp;
 1 cây cần tây, cắt khúc nhỏ;
 1/2 củ hành tây, thái mỏng;
 1 quả thanh long đỏ, gọt vỏ và cắt miếng;
@@ -214,8 +214,8 @@ Trong một bát lớn, cho cần tây, hành tây, thanh long đỏ và cồi s
 Rưới nước sốt lên trên và trộn đều.
 Hoàn thành và trang trí:
 Cho salad ra đĩa, rắc ngò tây cắt nhỏ lên trên để trang trí.
-Thưởng thức ngay khi salad còn tươi ngon.",2024-11-28 07:53:04.878,2024-11-28 11:21:37.436
-67441138c36b585cf943d401,Smoothie thanh long đỏ nhiệt đới,Đồ uống,Sinh tố,Tiểu đường,180.0,28.0,4.0,5.0,5.0,0.075,0.07,0.015,17.5,0.0,0.0015,"Calo: 180, Carbohydrate: 28, Protein: 4, Fat: 5, Fiber: 5, Sodium: 0.075, VitaminC: 0.07, Purine: 0.015, Sugar: 17.5, Cholesterol: 0, Iron: 0.0015",static/uploads/dishes/smoothie-thanh-long-do.jpg,"1/2 quả thanh long đỏ, gọt vỏ và cắt miếng;
+Thưởng thức ngay khi salad còn tươi ngon.",2024-11-28 07:53:04.878,2024-12-04 16:53:45.217
+67441138c36b585cf943d401,Smoothie thanh long đỏ nhiệt đới,Đồ uống,Sinh tố,Tiểu đường,180.0,28.0,4.0,5.0,5.0,0.075,0.07,0.015,17.5,0.0,0.0015,"Calo: 180, Carbohydrate: 28, Protein: 4, Fat: 5, Fiber: 5, Sodium: 0.075, VitaminC: 0.07, Purine: 0.015, Sugar: 17.5, Cholesterol: 0, Iron: 0.0015",static/uploads/dishes/smoothie-thanhlongdo.jpg,"1/2 quả thanh long đỏ, gọt vỏ và cắt miếng;
 1/2 quả chuối, cắt lát (có thể dùng chuối chín vừa để kiểm soát lượng đường);
 1 quả kiwi, gọt vỏ và cắt miếng;
 1 thìa canh hạt chia;
@@ -229,7 +229,7 @@ Xay nhuyễn cho đến khi hỗn hợp mịn.
 Thêm hạt chia vào và khuấy đều, hoặc có thể xay nhẹ để hạt chia phân đều trong hỗn hợp.
 Hoàn thành và thưởng thức:
 Đổ smoothie ra ly.
-Để hạt chia nở trong smoothie khoảng 5-10 phút trước khi thưởng thức.",2024-11-28 07:53:04.878,2024-11-29 17:26:01.072
+Để hạt chia nở trong smoothie khoảng 5-10 phút trước khi thưởng thức.",2024-11-28 07:53:04.878,2024-12-09 09:20:59.765
 67441138c36b585cf943d402,Canh thanh long nấu tôm tươi,Món ăn,Món khác,Tiểu đường,200.0,13.0,18.0,4.0,2.5,0.5,0.04,0.125,4.0,0.08,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d403,Thịt bò xào thanh long,Món ăn,Món chính,Tiểu đường,300.0,10.0,23.0,17.0,2.5,0.6,0.025,0.25,5.0,0.09,0.0035,"Calo: 300, Carbohydrate: 10, Protein: 23, Fat: 17, Fiber: 2.5, Sodium: 0.6, VitaminC: 0.025, Purine: 0.25, Sugar: 5, Cholesterol: 0.09, Iron: 0.0035",static/uploads/dishes/mon-ngon-la-thit-bo-xao-thanh-long.jpg,"200g thịt bò, thái lát mỏng;
 1/2 quả thanh long trắng, gọt vỏ và cắt miếng vừa ăn;
@@ -281,8 +281,22 @@ Rưới nước sốt dầu giấm lên trên các nguyên liệu.
 Nhẹ nhàng trộn đều để các nguyên liệu thấm đều nước sốt.
 Cho salad ra đĩa, rắc rau mùi (ngò rí) cắt nhỏ lên trên để trang trí.
 Thưởng thức ngay khi salad còn tươi mát.",2024-11-28 07:53:04.878,2024-12-01 07:41:20.363
-67441138c36b585cf943d405,Canh chuối xanh nấu tôm thịt,Món ăn,Món khác,Tiểu đường,400.0,38.0,20.0,19.0,3.5,0.6,0.025,0.125,3.0,0.07,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d406,Cà ri tôm chuối sáp,Món ăn,Món chính,Tiểu đường,200.0,28.0,15.0,5.0,4.5,0.7,0.04,0.175,6.0,0.08,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d405,Canh chuối xanh nấu tôm thịt,Món ăn,Món khác,Tiểu đường,400.0,38.0,20.0,19.0,3.5,0.6,0.025,0.125,3.0,0.07,0.0025,"Calo: 400, Carbohydrate: 38, Protein: 20, Fat: 19, Fiber: 3.5, Sodium: 0.6, VitaminC: 0.025, Purine: 0.125, Sugar: 3, Cholesterol: 0.07, Iron: 0.0025",static/uploads/dishes/canh-chuoi-xanh-nau-tom-thit.jpg,"3 trái chuối xanh, 100g tôm, 200g thịt nạc xay, 700 ml nước lọc. 1 củ hành tím, 2g hạt nêm, 2ml nước mắm, 1g mắm ruốc, 2g đường ăn kiêng, 5 – 10ml dầu ô-liu, 2 nhánh hành lá, hạt tiêu.","Bước 1: Sơ chế nguyên liệu:
+Chuối xanh lột vỏ, ngâm nước muối rồi thái lát mỏng;
+Tôm bóc vỏ, bỏ chỉ và rửa sạch;
+Hành tím bóc vỏ, băm nhỏ;
+Hành lá rửa sạch, cắt nhỏ
+Bước 2: Ướp thịt và tôm với hạt nêm, nước mắm, đường, hạt tiêu trong 15 – 30 phút;
+Bước 3: Làm nóng dầu, phi thơm hành tím. Sau đó, cho tôm, thịt vào xào săn rồi đổ 700 ml nước vào nồi. Khi nước sôi, cho chuối vào nấu chín;
+Bước 4: Sau đó, thêm mắm ruốc và nêm nếm lại gia vị cho vừa ăn. Tắt bếp, múc ra bát, thêm hành lá và thưởng thức.",2024-11-28 07:53:04.878,2024-12-08 14:56:49.507
+67441138c36b585cf943d406,Cà ri tôm chuối sáp,Món ăn,Món chính,Tiểu đường,200.0,28.0,15.0,5.0,4.5,0.7,0.04,0.175,6.0,0.08,0.0025,"Calo: 200, Carbohydrate: 28, Protein: 15, Fat: 5, Fiber: 4.5, Sodium: 0.7, VitaminC: 0.04, Purine: 0.175, Sugar: 6, Cholesterol: 0.08, Iron: 0.0025",static/uploads/dishes/ca-ri-tom-voi-chuoi-sap.jpg,"300g tôm sú, 1 nải chuối sáp, 5g bột cà ri, 200ml nước dừa, 1 củ hành tây, 5 nhánh sả, 3 quả ớt, 4 tép tỏi, 2 củ hành tím, 10 – 15 ml dầu ô-liu, 3g muối, 2g hạt nêm, 2g đường ăn kiêng, 1 bó ngò gai.","Bước 1: Sơ chế nguyên liệu:
+Chuối cắt ra từng trái, rửa sạch rồi luộc chín;
+Tôm bỏ đầu, đuôi, râu, lột vỏ và tháo chỉ đen rồi rửa sạch với nước muối loãng, để ráo và dùng giấy ăn thấm khô;
+Hành tím, tỏi, sả, ớt cắt nhỏ;
+Hành tây lột vỏ, bổ múi cau;
+Ngò gai rửa sạch, cắt nhỏ.
+Bước 2: Làm nóng dầu rồi cho hành tây, sả, hành tím, tỏi, ớt vào phi thơm. Sau đó, lần lượt thêm nước dừa và bột cà ri vào khuấy đều. Khi nước dừa sôi thì cho tôm và chuối sáp vào đảo nhẹ tay;
+Bước 3: Sau khi đun khoảng 10 phút, nêm nếm muối, đường, hạt nêm rồi tắt bếp. Múc ra bát, thêm ngò gai và thưởng thức.",2024-11-28 07:53:04.878,2024-12-08 15:05:09.112
 67441138c36b585cf943d407,Bánh chuối yến mạch,Món ăn,Ăn vặt,Tiểu đường,250.0,40.0,5.0,9.0,6.0,0.4,0.015,0.015,12.5,0.025,0.0025,"Calo: 250, Carbohydrate: 40, Protein: 5, Fat: 9, Fiber: 6, Sodium: 0.4, VitaminC: 0.015, Purine: 0.015, Sugar: 12.5, Cholesterol: 0.025, Iron: 0.0025",static/uploads/dishes/banh-chuoi-yen-mach.jpg,"4 quả chuối chín vừa, 2 quả trứng gà, 20g yến mạch cán dẹt, 1 hộp sữa chua không đường, 2g baking soda, 2g baking powder, các loại hạt tùy thích (hạt điều, hạnh nhân,…).","Dầm chuối và trứng gà cho nhuyễn rồi trộn đều với sữa chua. Sau đó cho yến mạch và các loại hạt vào trộn đều;
 Làm nóng lò trước ở nhiệt độ 200 độ C trong 10 phút. Khi lò còn 5 phút, thêm baking powder, baking soda vào hỗn hợp trứng bột ở bên ngoài, trộn đều rồi đổ vào khuôn;
 Nướng bánh dưới 160 độ C trong 20 – 25 phút. Sau đó, chỉnh lên 180 độ C và nướng thêm 5 phút nữa. Khi bánh chín vàng đều, lấy ra và thưởng thức.",2024-11-28 07:53:04.878,2024-11-29 17:35:20.108
@@ -321,19 +335,68 @@ Hoàn thành:
 Khi canh đã chín, thêm hành lá và ngò rí cắt nhỏ vào nồi, khuấy đều rồi tắt bếp.
 Múc canh ra tô, dùng nóng. Món canh đu đủ hầm xương này có thể dùng kèm với cơm gạo lứt hoặc bánh mì nâu.",2024-11-28 07:53:04.878,2024-11-29 17:44:15.509
 67441138c36b585cf943d40c,Canh cá đu đủ,Món ăn,Món khác,Tiểu đường,200.0,15.0,20.0,6.0,2.5,0.5,0.04,0.125,3.0,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d40d,Gỏi đu đủ thịt bò,Món ăn,Món chính,Tiểu đường,250.0,20.0,23.0,9.0,4.0,0.5,0.05,0.175,6.0,0.07,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d40d,Gỏi đu đủ thịt bò,Món ăn,Món chính,Tiểu đường,250.0,20.0,23.0,9.0,4.0,0.5,0.05,0.175,6.0,0.07,0.0025,"Calo: 250, Carbohydrate: 20, Protein: 23, Fat: 9, Fiber: 4, Sodium: 0.5, VitaminC: 0.05, Purine: 0.175, Sugar: 6, Cholesterol: 0.07, Iron: 0.0025",static/uploads/dishes/goiduduthitbo.jpg,"700g đu đủ xanh;
+450g thịt bò;
+50g lá bạc hà;
+50g húng quế;
+50g ngò rí;
+30g đậu phộng;
+15g hành phi;
+30 ml nước cốt chanh;
+20 ml dầu ô-liu;
+50g đường ăn kiêng không calo;
+15 ml nước mắm;
+10g ớt băm;
+60g sả băm;
+5g tỏi băm;
+10 ml dầu mè;
+15 ml dầu hào;
+5g muối;
+5g tiêu;
+10g ớt bột;
+1/2 muỗng cà phê bột ngũ vị hương.","Sơ chế nguyên liệu:
+Rửa sạch thịt bò, thái thành miếng mỏng vừa ăn.
+Rửa sạch sả, băm nhuyễn.
+Ướp và xào thịt bò:
+Trộn sả với 5 ml nước mắm, 10g dầu mè, 15 ml dầu hào, 30g đường, 5g tiêu, 1/2 muỗng cà phê ớt bột, 1/2 muỗng cà phê bột ngũ vị hương. Sau đó, thêm thịt bò vào, trộn đều và ướp trong 30 phút.
+Đun nóng 10 ml dầu ô-liu trong chảo, cho thịt bò đã ướp vào xào nhanh đến khi thịt chín tới, rồi cho ra đĩa để riêng.
+Chuẩn bị đu đủ và rau củ:
+Gọt vỏ, bỏ hạt và bào sợi đu đủ non. Rửa sạch các loại rau, để ráo và cắt nhỏ.
+Bào sợi đu đủ, sau đó ngâm vào chén nước đá lạnh trong 15 – 20 phút để đu đủ giòn hơn. Sau đó, vớt ra và để ráo.
+Pha sốt trộn gỏi: Trộn đều 20 ml nước cốt chanh, 20 ml dầu ô-liu, 20g đường ăn kiêng, 10 ml nước mắm, 10g ớt băm, 5g tỏi băm vào chén. Khuấy đều để các gia vị hòa quyện.
+Trộn gỏi: Cho đu đủ đã ráo nước vào tô lớn, thêm rau thơm đã cắt nhỏ (lá bạc hà, húng quế, ngò rí), thịt bò đã xào, hành phi và đậu phộng rang giã nhỏ. Rưới nước trộn gỏi lên trên và trộn đều.
+Hoàn thành: Trình bày gỏi đu đủ ra đĩa, có thể thêm vài lát thịt bò lên trên để trang trí. Rắc thêm một ít đậu phộng rang và hành phi. Thưởng thức ngay khi gỏi còn tươi và giòn.",2024-11-28 07:53:04.878,2024-12-08 15:02:03.607
 67441138c36b585cf943d40e,Salad đu đủ chín và bơ,Món ăn,Món khác,Tiểu đường,200.0,15.0,2.0,15.0,6.0,0.25,0.07,0.015,8.5,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d40f,Sữa chua mix mít và hạt macca,Món ăn,Ăn vặt,Tiểu đường,220.0,18.0,5.0,11.0,3.5,0.15,0.025,0.015,12.5,0.025,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d410,Gỏi xơ mít trứng cút chua ngọt,Món ăn,Món khác,Tiểu đường,150.0,13.0,9.0,5.0,4.5,0.4,0.04,0.025,6.0,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d411,Thịt kho mít,Món ăn,Món chính,Tiểu đường,350.0,10.0,30.0,20.0,2.5,0.6,0.025,0.125,5.0,0.07,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d412,Cá đối kho xơ mít,Món ăn,Món chính,Tiểu đường,250.0,8.0,25.0,10.0,2.5,0.6,0.025,0.125,4.0,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d413,Xơ mít xào chua ngọt,Món ăn,Món chay,Tiểu đường,180.0,20.0,2.0,6.0,3.5,0.4,0.04,0.125,6.0,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d413,Xơ mít xào chua ngọt,Món ăn,Món chay,Tiểu đường,180.0,20.0,2.0,6.0,3.5,0.4,0.04,0.125,6.0,0.0,0.0015,"Calo: 180, Carbohydrate: 20, Protein: 2, Fat: 6, Fiber: 3.5, Sodium: 0.4, VitaminC: 0.04, Purine: 0.125, Sugar: 6, Cholesterol: 0, Iron: 0.0015",static/uploads/dishes/Xo-mit-xao-chua-ngot.jpg,"Xơ mít: 300g, đã tách sẵn;
+Hành tím: 2 củ, băm nhỏ;
+Tỏi: 2 tép, băm nhỏ;
+Ớt: 1 trái, băm nhỏ (tùy chọn);
+Nước cốt me: 2 muỗng canh;
+Đường cỏ ngọt stevia: 1 muỗng canh;
+Nước tương: 1 muỗng canh
+Dầu ô-liu: 1 muỗng canh;
+Rau thơm, hành lá (tùy chọn).","Trong chảo, đun nóng dầu rồi phi thơm hành tím, tỏi và ớt.
+Sau khi hành tỏi đã thơm, cho xơ mít vào chảo và xào đều khoảng 5 phút cho xơ mít săn lại.
+Thêm nước cốt me, đường ăn kiêng và nước tương vào chảo, xào đều tay để các nguyên liệu ngấm đều gia vị và hỗn hợp hơi sệt lại.
+Cuối cùng, thêm rau thơm hoặc hành lá cắt nhỏ vào, đảo đều và tắt bếp.",2024-11-28 07:53:04.878,2024-12-08 15:00:52.513
 67441138c36b585cf943d415,Gỏi gà chôm chôm,Món ăn,Món chính,Tiểu đường,180.0,10.0,20.0,5.0,4.0,0.4,0.05,0.125,6.0,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d416,Gà hấp chôm chôm,Món ăn,Món chính,Tiểu đường,400.0,20.0,35.0,15.0,2.5,0.5,0.025,0.125,4.0,0.07,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d417,Canh chôm chôm nhồi thịt,Món ăn,Món khác,Tiểu đường,200.0,10.0,15.0,5.0,2.5,0.6,0.025,0.125,4.0,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d418,Salad tôm nhãn,Món ăn,Món khác,Tiểu đường,200.0,15.0,20.0,5.0,3.5,0.4,0.04,0.125,6.0,0.07,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d419,Thịt bò xào chôm chôm,Món ăn,Món chính,Tiểu đường,300.0,10.0,25.0,12.0,2.5,0.6,0.025,0.175,5.0,0.08,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d41a,Salad gà nhãn và mắc ca,Món ăn,Món khác,Tiểu đường,250.0,15.0,20.0,10.0,4.5,0.4,0.05,0.125,6.0,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d41a,Salad gà nhãn và mắc ca,Món ăn,Món khác,Tiểu đường,250.0,15.0,20.0,10.0,4.5,0.4,0.05,0.125,6.0,0.06,0.0015,"Calo: 250, Carbohydrate: 15, Protein: 20, Fat: 10, Fiber: 4.5, Sodium: 0.4, VitaminC: 0.05, Purine: 0.125, Sugar: 6, Cholesterol: 0.06, Iron: 0.0015",static/uploads/dishes/salad-ga-nhan-mac-ca.png,"45g hạt mắc ca sống, 2 miếng ức gà, 1 cây rau xà lách, 200g nhãn, 1 bó rau mầm, 5ml dầu ô liu, 20 ml nước cốt chanh tươi, 1 bó rau bạc hà, 2g muối, 2g đường ăn kiêng.","Bước 1: Sơ chế nguyên liệu:
+Ức gà rửa sạch, cắt thành miếng nhỏ;
+Xà lách rửa sạch, để ráo và thái nhỏ;
+Nhãn bóc vỏ, bổ đôi và bỏ hạt;
+Rau mầm rửa sạch để ráo;
+Mắc ca tách vỏ.
+Bước 2: Làm nóng lò nướng hoặc nồi chiên không dầu dưới 180 độ C. Sau đó, đem nướng mắc ca dưới 200 độ C trong 3 – 5 phút;
+Bước 3: Đun sôi nước, bỏ ức gà vào luộc khoảng 12 phút. Trong thời gian luộc gà, trộn đều xà lách, nhãn, đậu tuyết, rau mầm với dầu ô-liu, nước cốt chanh, muối và đường ăn kiêng;
+Bước 4: Khi gà chín, vớt rồi rồi cho vào bát trộn đều với rau và sốt. Sau khi trộn khoảng 5 phút, cho gà và rau ra đĩa, thêm phần mắc ca đã nướng rồi thường thức.",2024-11-28 07:53:04.878,2024-12-11 17:22:52.735
 67441138c36b585cf943d41b,Sinh tố chuối nhãn,Món ăn,Sinh tố,Tiểu đường,180.0,25.0,2.0,5.0,3.5,0.15,0.04,0.015,12.5,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d41c,Salad nhãn trái cây,Món ăn,Món khác,Tiểu đường,120.0,25.0,2.0,2.0,4.5,0.25,0.06,0.015,17.5,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d41d,Thạch đậu nành nhãn,Món ăn,Ăn vặt,Tiểu đường,100.0,10.0,3.0,3.0,2.5,0.15,0.025,0.015,12.5,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -349,8 +412,30 @@ Múc canh ra tô, dùng nóng. Món canh đu đủ hầm xương này có thể 
 67441138c36b585cf943d427,Salad táo nho cần tây,Món ăn,Món khác,Tiểu đường,130.0,18.0,2.0,7.0,4.5,4.5,0.04,0.015,12.5,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d428,Salad nho thịt gà,Món ăn,Món khác,Tiểu đường,180.0,12.0,15.0,8.0,2.0,0.3,0.02,0.02,8.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d429,Salad dưa leo và nho,Món ăn,Món khác,Tiểu đường,80.0,10.0,1.0,2.0,2.0,0.2,0.03,0.0,6.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d42a,Sinh tố kiwi nho xanh,Đồ uống,Sinh tố,Tiểu đường,90.0,15.0,2.0,2.0,3.0,0.1,0.05,0.0,15.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d42b,Sinh tố bơ và nho xanh,Đồ uống,Sinh tố,Tiểu đường,220.0,20.0,3.0,18.0,4.0,0.1,0.04,0.0,10.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d42a,Sinh tố kiwi nho xanh,Đồ uống,Sinh tố,Tiểu đường,90.0,15.0,2.0,2.0,3.0,0.1,0.05,0.0,15.0,0.0,0.002,"Calo: 90, Carbohydrate: 15, Protein: 2, Fat: 2, Fiber: 3, Sodium: 0.1, VitaminC: 0.05, Purine: 0, Sugar: 15, Cholesterol: 0, Iron: 0.002",static/uploads/dishes/sinh-to-kiwi-nho-xanh.jpg,"1 quả bơ chín, bỏ hạt và lấy phần thịt;
+1 chén nho xanh không hạt;
+250 ml nước dừa hoặc nước lọc để điều chỉnh độ lỏng;
+15 – 20g đường cỏ ngọt stevia;
+Đá viên (nếu thích uống lạnh).","Chuẩn bị nguyên liệu:
+Bổ đôi quả bơ, bỏ hạt và dùng muỗng gạt lấy toàn bộ phần thịt bơ bên trong.
+Nho xanh rửa sạch và lấy hạt (nếu có).
+Xay sinh tố:
+Cho bơ, nho xanh và nước dừa vào máy xay sinh tố.
+Thêm đường nếu thích uống ngọt và đá nếu thích uống lạnh.
+Xay nhuyễn cho đến khi hỗn hợp mịn và đồng nhất.
+Thưởng thức: Đổ sinh tố ra ly và thưởng thức ngay.",2024-11-28 07:53:04.878,2024-12-08 16:56:33.149
+67441138c36b585cf943d42b,Sinh tố bơ và nho xanh,Đồ uống,Sinh tố,Tiểu đường,220.0,20.0,3.0,18.0,4.0,0.1,0.04,0.0,10.0,0.0,0.002,"Calo: 220, Carbohydrate: 20, Protein: 3, Fat: 18, Fiber: 4, Sodium: 0.1, VitaminC: 0.04, Purine: 0, Sugar: 10, Cholesterol: 0, Iron: 0.002",static/uploads/dishes/sinh-to-bo-va-nho-xanh.jpg,"1 quả bơ chín, bỏ hạt và lấy phần thịt;
+1 chén nho xanh không hạt;
+250 ml nước dừa hoặc nước lọc để điều chỉnh độ lỏng;
+15 – 20g đường cỏ ngọt stevia;
+Đá viên (nếu thích uống lạnh).","Chuẩn bị nguyên liệu:
+Bổ đôi quả bơ, bỏ hạt và dùng muỗng gạt lấy toàn bộ phần thịt bơ bên trong.
+Nho xanh rửa sạch và lấy hạt (nếu có).
+Xay sinh tố:
+Cho bơ, nho xanh và nước dừa vào máy xay sinh tố.
+Thêm đường nếu thích uống ngọt và đá nếu thích uống lạnh.
+Xay nhuyễn cho đến khi hỗn hợp mịn và đồng nhất.
+Thưởng thức: Đổ sinh tố ra ly và thưởng thức ngay.",2024-11-28 07:53:04.878,2024-12-08 16:53:27.318
 67441138c36b585cf943d42c,Trứng vịt chưng nấm đông cô,Món ăn,Món khác,Tiểu đường,120.0,3.0,8.0,7.0,1.0,0.4,0.0,0.02,1.0,0.2,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d42d,Trứng vịt xào nấm kim châm và rau củ,Món ăn,Món khác,Tiểu đường,110.0,5.0,7.0,5.0,2.0,0.5,0.01,0.02,2.0,0.2,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d42e,Trứng vịt chiên cà rốt và nấm,Món ăn,Món khác,Tiểu đường,130.0,4.0,9.0,7.0,2.0,0.4,0.01,0.02,1.0,0.2,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -407,18 +492,56 @@ Hoàn thiện món ăn: Tắt bếp, múc canh ra tô, rắc thêm ít rau mùi 
 67441138c36b585cf943d452,Bánh óc chó,Món ăn,Ăn vặt,Tiểu đường,430.0,25.0,10.0,35.0,2.0,0.2,0.0,0.0,10.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d453,Bánh dứa yến mạch úp ngược,Món ăn,Ăn vặt,Tiểu đường,280.0,40.0,6.0,8.0,3.0,0.2,0.02,0.0,15.0,0.05,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d454,Bánh tôm khoai lang chiên giòn,Món ăn,Ăn vặt,Tiểu đường,250.0,30.0,12.0,8.0,2.0,0.5,0.01,0.02,2.0,0.1,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d455,Khoai lang viên cà rốt,Món ăn,Ăn vặt,Cao huyết áp,200.0,35.0,5.0,4.0,2.5,0.25,0.025,0.015,3.5,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d455,Khoai lang viên cà rốt,Món ăn,Ăn vặt,Cao huyết áp,200.0,35.0,5.0,4.0,2.5,0.25,0.025,0.015,3.5,0.0,0.0015,"Calo: 200, Carbohydrate: 35, Protein: 5, Fat: 4, Fiber: 2.5, Sodium: 0.25, VitaminC: 0.025, Purine: 0.15, Sugar: 3.5, Cholesterol: 0, Iron: 0.0015",static/uploads/dishes/khoai-lang-vien-ca-rot.jpg,"2 củ khoai lang, gọt vỏ và luộc chín;
+1 củ cà rốt, gọt vỏ và nạo nhỏ;
+1/4 cốc hành lá, cắt nhỏ;
+1/4 cốc bột ngũ cốc nguyên hạt (hoặc bột yến mạch) cho chất xơ cao;
+Muối và tiêu đen để gia vị;
+5 – 10ml dầu ô-liu.","Nghiền mịn khoai lang đã luộc chín trong một tô lớn.
+Thêm cà rốt bào nhỏ, hành lá và bột ngũ cốc nguyên hạt vào tô khoai lang nghiền. Nêm muối và tiêu đen để tăng hương vị rồi trộn đều cho đến khi hỗn hợp đồng nhất.
+Lấy một lượng nhỏ hỗn hợp khoai lang rồi vo thành các viên nhỏ. Nếu hỗn hợp quá dính, bạn có thể thêm một chút bột để dễ dàng tạo hình hơn.
+Đun nóng dầu ô-liu trên một chảo nhỏ. Khi dầu nóng, nhẹ nhàng đặt các viên khoai lang vào, áp chảo ở lửa khoảng 4-5 phút mỗi bên, cho đến khi viên khoai chuyển sang màu vàng giòn.
+Đặt các viên khoai lang lên giấy thấm dầu để loại bỏ dầu thừa trước khi thưởng thức.",2024-11-28 07:53:04.878,2024-12-08 15:19:15.084
 67441138c36b585cf943d456,Hamburger khoai lang ức gà,Món ăn,Ăn vặt,Cao huyết áp,350.0,30.0,25.0,10.0,3.5,0.7,0.025,0.125,3.5,0.06,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d457,Salad cá hồi khoai lang và rau củ,Món ăn,Món khác,Cao huyết áp,400.0,25.0,30.0,18.0,3.5,0.4,0.04,0.125,2.5,0.06,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d458,Cari gà khoai lang,Món ăn,Món chính,Cao huyết áp,500.0,45.0,25.0,25.0,3.5,0.6,0.025,0.125,2.5,0.07,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d459,Khoai lang mật nướng,Món ăn,Ăn vặt,Tiểu đường,250.0,55.0,3.0,0.0,3.0,0.1,0.02,0.0,10.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d458,Cari gà khoai lang,Món ăn,Món chính,Cao huyết áp,500.0,45.0,25.0,25.0,3.5,0.6,0.025,0.125,2.5,0.07,0.0025,"Calo: 500, Carbohydrate: 45, Protein: 25, Fat: 25, Fiber: 3.5, Sodium: 0.6, VitaminC: 0.025, Purine: 0.125, Sugar: 2.5, Cholesterol: 0.07, Iron: 0.0025",static/uploads/dishes/ca-ri-ga-khoai-lang.jpg,"500g ức gà, cắt thành miếng vừa ăn;
+2 củ khoai lang;
+1 hộp sữa dừa ít béo (khoảng 400ml);
+2 muỗng canh dầu ô-liu;
+1 hành tây vừa, thái nhỏ;
+2 tép tỏi, băm nhỏ;
+1 muỗng canh gừng tươi băm nhỏ;
+2-3 muỗng canh bột cari, điều chỉnh theo khẩu vị;
+1 muỗng cà phê bột nghệ;
+Muối và tiêu đen theo khẩu vị;
+Rau mùi tươi và ớt (nếu thích).","Sơ chế: Ướp miếng gà với muối, tiêu và để riêng trong 10 phút cho ngấm đều gia vị. Khoai lang gọt vỏ và cắt thành miếng vừa ăn.
+Xào hành tỏi: Trên chảo, đun nóng dầu ô-liu, sau đó thêm hành tây, tỏi và gừng vào xào cho đến khi hành tây chuyển sang màu trong suốt.
+Thêm gia vị: Thêm bột cari và bột nghệ vào chảo, khuấy đều cho đến khi thơm.
+Nấu gà: Thêm ức gà vào chảo và xào cho đến khi gà săn lại.
+Thêm khoai lang và sữa dừa: Thêm khoai lang vào chảo cùng với sữa dừa ít béo, khuấy đều. Điều chỉnh lửa vừa phải và đun sôi. Sau đó, hạ lửa và để lửa nhỏ cho đến khi gà và khoai lang chín mềm, khoảng 20 – 25 phút.
+Nêm gia vị: Kiểm tra hương vị và điều chỉnh muối và tiêu theo khẩu vị.
+Thưởng thức: Thêm rau mùi tươi và ớt (nếu sử dụng) trước khi tắt bếp.
+",2024-11-28 07:53:04.878,2024-12-08 15:23:47.795
+67441138c36b585cf943d459,Khoai lang mật nướng,Món ăn,Ăn vặt,Tiểu đường,250.0,55.0,3.0,0.0,3.0,0.1,0.02,0.0,10.0,0.0,0.002,"Calo: 250, Carbohydrate: 55, Protein: 3, Fat: 0, Fiber: 3, Sodium: 0.1, VitaminC: 0.02, Purine: 0, Sugar: 10, Cholesterol: 0, Iron: 0.002",static/uploads/dishes/tieu-duong-co-an-khoai-lang-mat-duoc-khong-03.jpg,1 củ khoai lang mật khoảng 80 – 100g,"Đầu tiên, rửa sạch và cắt đôi củ khoai lang mật;
+Cùng lúc đó, làm nóng nồi chiên không dầu hoặc lò nướng ở nhiệt độ 180 độ trong 10 phút;
+Kế tiếp, cho khoai lang vào nướng trong khoảng 30 phút. Lưu ý, nên kiểm tra độ chín của khoai với tần suất 10 phút / lần để tránh bị khét;
+Cuối cùng, thưởng thức khoai lang mật nướng khi còn nóng để giữ trọn hương vị thơm ngon của món ăn.",2024-11-28 07:53:04.878,2024-12-08 15:26:26.055
 67441138c36b585cf943d45a,Cà ri khoai lang mật cà tím và đậu hũ non chay,Món ăn,Món chay,Cao huyết áp,500.0,40.0,10.0,38.0,4.5,0.5,0.025,0.015,4.0,0.0,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d45b,Bánh khoai lang mật,Món ăn,Ăn vặt,Tiểu đường,190.0,40.0,2.0,0.5,2.0,0.2,0.01,0.0,8.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d45c,Sữa khoai lang mật macca,Đồ uống,Loại khác,Cao huyết áp,220.0,25.0,3.0,12.0,2.5,0.15,0.015,0.015,9.0,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d45c,Sữa khoai lang mật macca,Đồ uống,Loại khác,Cao huyết áp,220.0,25.0,3.0,12.0,2.5,0.15,0.015,0.015,9.0,0.0,0.0015,"Calo: 220, Carbohydrate: 25, Protein: 3, Fat: 12, Fiber: 2.5, Sodium: 0.15, VitaminC: 0.015, Purine: 0.015, Sugar: 9, Cholesterol: 0, Iron: 0.0015",static/uploads/dishes/Sua_khoai_lang_mat_macca.jpg,"Khoai lang mật: 80g;
+Hạt macca: 30g;
+Chà là: 1 quả.","Đầu tiên, rửa sạch, gọt vỏ và cắt nhỏ khoai lang; ngâm hạt macca khoảng 5 giờ; rửa sạch và bỏ hạt quả chà là;
+Kế tiếp, xay nhuyễn các nguyên liệu này với 1 lít nước; dùng ray hoặc khăn xô lọc lấy phần nước, bỏ xác;
+Sau đó, đun phần nước vừa thu được với lửa nhỏ, khuấy đều tay để không bị tách nước;
+Cuối cùng, cho sữa khoai lang mật macca ra ly và thưởng thức.",2024-11-28 07:53:04.878,2024-12-08 18:03:51.011
 67441138c36b585cf943d45d,Chim cút hầm khoai lang mật kỷ tử táo đỏ,Món ăn,Món khác,Tiểu đường,300.0,30.0,18.0,15.0,3.0,0.5,0.02,0.02,5.0,0.1,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d45e,Canh khoai môn hầm sườn,Món ăn,Món khác,Tiểu đường,450.0,50.0,20.0,20.0,2.0,0.6,0.01,0.02,1.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d45f,Khoai môn bọc cá thác lác,Món ăn,Món chính,Tiểu đường,250.0,25.0,20.0,10.0,2.0,0.4,0.01,0.02,1.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d460,Sữa khoai môn macca và yến mạch,Đồ uống,Loại khác,Tiểu đường,270.0,38.0,6.0,12.0,3.0,0.2,0.01,0.0,6.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d460,Sữa khoai môn macca và yến mạch,Đồ uống,Loại khác,Tiểu đường,270.0,38.0,6.0,12.0,3.0,0.2,0.01,0.0,6.0,0.0,0.002,"Calo: 270, Carbohydrate: 38, Protein: 6, Fat: 12, Fiber: 3, Sodium: 0.2, VitaminC: 0.01, Purine: 0, Sugar: 6, Cholesterol: 0, Iron: 0.002",static/uploads/dishes/benh-tieu-duong-an-khoai-mon-duoc-khong-01.jpg,"2 củ khoai môn nhỏ, 10 hạt macca, 10g yến mạch, 2g đường ăn kiêng không calo, 500ml nước.","Bước 1: Sơ chế nguyên liệu:
+Ngâm hạt macca khoảng 4 giờ, ngâm yến mạch khoảng 2 giờ sau đó rửa sạch;
+Khoai môn lột vỏ, rửa sạch và cắt nhỏ.
+Bước 2: Cho các hạt macca, yến mạch, khoai môn và nước vào máy xay, xay nhuyễn;
+Bước 3: Sau đó, lọc bã rồi đổ phần sữa đã lọc vào nồi. Thêm đường ăn kiêng rồi đun dưới lửa nhỏ. Khi đường tan hết thì rót ra cốc và thưởng thức.",2024-11-28 07:53:04.878,2024-12-08 18:07:20.595
 67441138c36b585cf943d461,Nem vuông khoai môn,Món ăn,Món khác,Tiểu đường,200.0,40.0,5.0,1.0,2.0,0.3,0.01,0.01,2.0,0.05,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d462,Sườn non hấp tàu xì khoai môn,Món ăn,Món chính,Tiểu đường,500.0,30.0,40.0,30.0,2.0,0.5,0.01,0.02,1.0,0.1,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d463,Canh khoai sọ rau nhút nấu sườn,Món ăn,Món khác,Tiểu đường,350.0,50.0,15.0,5.0,2.0,0.5,0.01,0.02,1.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -478,15 +601,96 @@ Bạn cho bún vào tô rồi thêm nước dùng và cá vào thì bạn đã c
 67441138c36b585cf943d47e,Hủ tiếu mực,Món ăn,Món khác,Tiểu đường,300.0,40.0,20.0,10.0,2.0,0.5,0.01,0.02,1.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d47f,Hủ tiếu xào tôm trứng,Món ăn,Món khác,Tiểu đường,400.0,45.0,25.0,15.0,2.0,0.5,0.01,0.02,2.0,0.1,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d480,Hủ tiếu gà cá phile,Món ăn,Món khác,Tiểu đường,350.0,35.0,25.0,10.0,2.0,0.5,0.01,0.02,1.0,0.1,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d481,Mì tôm xào thập cẩm với đậu phụ,Món ăn,Món khác,Tiểu đường,450.0,60.0,10.0,12.0,3.0,0.6,0.01,0.01,2.0,0.0,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d482,Mì miso rau nấm chay,Món ăn,Món khác,Tiểu đường,350.0,50.0,8.0,8.0,3.0,0.5,0.01,0.01,1.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d481,Mì tôm xào thập cẩm với đậu phụ,Món ăn,Món khác,Tiểu đường,450.0,60.0,10.0,12.0,3.0,0.6,0.01,0.01,2.0,0.0,0.003,"Calo: 450, Carbohydrate: 60, Protein: 10, Fat: 12, Fiber: 3, Sodium: 0.6, VitaminC: 0.01, Purine: 0.01, Sugar: 2, Cholesterol: 0, Iron: 0.003",static/uploads/dishes/tieu-duong-an-duoc-mi-tom-khong.jpg,"Mì tôm: 2 gói;
+Ớt chuông đỏ: 1/2 trái;
+Dưa leo: 1 trái;
+Đậu hũ chiên: 50g;
+Nấm rơm: 5 – 7 đầu nấm.
+Đậu Hà Lan: 40g;
+Cải thảo: 40g.
+Dầu ô-liu: ½ muỗng canh.
+Hành tím băm: 5g.
+Nước tương: ½ muỗng canh;
+Đường cỏ ngọt stevia: 2 muỗng cà phê;
+Hạt nêm: ½ muỗng cà phê.","Chuẩn bị nguyên liệu:
+Rửa sạch tất cả rau củ bằng nước muối và xả lại với nước lạnh.
+Ớt chuông: Bỏ hạt, cắt sợi.
+Dưa leo: Cắt đôi bỏ ruột, thái lát chéo.
+Nấm rơm: Cắt làm đôi.
+Đậu Hà Lan: Cắt bỏ 2 đầu, cắt làm đôi.
+Cải thảo: Cắt sợi nhỏ.
+Sơ chế mì tôm: Trần mì tôm qua nước sôi, xả qua nước lạnh và để ráo.
+Xào rau củ:
+Đun nóng dầu trên chảo, sau đó cho hành tím băm vào phi thơm.
+Cho đậu hũ chiên và nấm rơm vào xào.
+Nêm gia vị:
+Nêm nước tương, hạt nêm, đường cỏ ngọt stevia cho thấm đều.
+Cho lần lượt các loại rau củ vào xào cho vừa chín tới để giữ độ giòn và xanh của rau.
+Cho mì vào trộn đều, nêm lại gia vị cho vừa ăn và tắt bếp.
+Dọn mì ra đĩa, ăn kèm với nước tương (nếu nhạt).",2024-11-28 07:53:04.878,2024-12-08 16:08:08.621
+67441138c36b585cf943d482,Mì miso rau nấm chay,Món ăn,Món chay,Tiểu đường,350.0,50.0,8.0,8.0,3.0,0.5,0.01,0.01,1.0,0.0,0.002,"Calo: 350, Carbohydrate: 50, Protein: 8, Fat: 8, Fiber: 3, Sodium: 0.5, VitaminC: 0.01, Purine: 0.01, Sugar: 1, Cholesterol: 0, Iron: 0.002",static/uploads/dishes/My-miso.jpg,"Mì ăn liền (chọn loại mì có gói gia vị Miso): 2 gói;
+Nấm đông cô: 80g;
+Cà rốt: 100g;
+Đậu hũ non: 150g;
+Gừng: 10g;
+Dầu ô-liu: 1 muỗng canh.","Chuẩn bị nguyên liệu:
+Nấm đông cô: Cắt bỏ chân, rửa sạch, khứa chữ thập trên đầu nấm.
+Đun sôi 300 ml nước lọc, cho 5g gừng thái sợi vào trụng nấm khoảng 2 phút để khử mùi hôi, sau đó vớt ra.
+Cho 1 muỗng canh dầu ô-liu vào chảo, cho nấm vào xào với nửa gói gia vị khô từ mì ăn liền. Xào khoảng 2 phút rồi để riêng ra.
+Nấu nước dùng:
+Cho 600ml nước lọc vào nồi, thêm 5g gừng thái sợi, đun sôi.
+Cà rốt: Gọt vỏ, cắt miếng mỏng 1.5cm, thêm vào nồi nấu 10 phút cho chín mềm.
+Thêm nấm đã xào và đậu hũ non cắt nhỏ cho vào nồi.
+Thêm 1/2 gói gia vị khô còn lại và thêm 1 gói gia vị khô của gói mì mới.
+Nấu mì:
+Khi nước dùng sôi, lần lượt cho mì vào chần (trụng) cho mềm, sau đó vớt ra cho vào tô.
+Hâm nước súp Miso rau nấm lại rồi đổ vào tô mì là có thể dùng được.",2024-11-28 07:53:04.878,2024-12-08 16:11:01.887
 67441138c36b585cf943d483,Mì trộn rau muống thịt băm,Món ăn,Món khác,Tiểu đường,500.0,55.0,20.0,15.0,2.0,0.5,0.01,0.02,1.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d484,Mì gói nấu nấm,Món ăn,Món khác,Tiểu đường,400.0,55.0,12.0,10.0,2.0,0.6,0.01,0.01,1.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d485,Mì xào bò rau củ,Món ăn,Món khác,Tiểu đường,550.0,65.0,20.0,18.0,3.0,0.5,0.01,0.02,2.0,0.1,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d486,Cháo cá hồi bí xanh,Món ăn,Món khác,Cao huyết áp,350.0,40.0,20.0,8.0,1.5,0.4,0.015,0.125,1.5,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d486,Cháo cá hồi bí xanh,Món ăn,Món khác,Cao huyết áp,350.0,40.0,20.0,8.0,1.5,0.4,0.015,0.125,1.5,0.06,0.0015,"Calo: 350, Carbohydrate: 40, Protein: 20, Fat: 8, Fiber: 1.5, Sodium: 0.4, VitaminC: 0.015, Purine: 0.125, Sugar: 1.5, Cholesterol: 0.06, Iron: 0.0015",static/uploads/dishes/chao-ca-hoi-bi-xanh.jpg,"Gạo: khoảng 30 – 40g;
+Cá hồi: 200 – 300g;
+Bí xanh: 1/4 quả;
+Hành tím: 1 củ;
+Dầu ô-liu: 5 ml;
+Hạt nêm: 2g;
+Muối: 1g;
+Đường ăn kiêng: 2g;
+Hạt tiêu.","Bước 1: Chuẩn bị nguyên liệu
+Gạo vo sạch, ngâm qua đêm hoặc 2 – 3 tiếng trước khi nấu;
+Cá hồi rửa sạch, thấm khô rồi thái nhỏ;
+Bí xanh gọt vỏ, cắt miếng vừa ăn;
+Hành tím bóc vỏ, băm nhỏ.
+Bước 2: Xào cá hồi
+Làm nóng dầu ô-liu, phi thơm hành tím, sau đó cho cá hồi vào xào đến khi cá chín và thơm. Xào nhẹ tay để cá không bị nát.
+Bước 3: Nấu cháo
+Cho gạo vào nồi với khoảng 250 ml nước. Nấu cháo trong khoảng 30 – 45 phút;
+Khi gạo bắt đầu nở và cháo đã bắt đầu sền sệt, thêm bí xanh thái nhỏ vào nồi. Nấu cùng nhau cho đến khi bí mềm và hòa quyện với cháo;
+Thêm cá hồi đã xào vào nồi, nêm nếm hạt nêm, muối, đường cho vừa ăn rồi tắt bếp.",2024-11-28 07:53:04.878,2024-12-08 16:26:03.458
 67441138c36b585cf943d487,Cháo gạo lứt nấm mối,Món ăn,Món khác,Tiểu đường,200.0,35.0,6.0,4.0,2.0,0.4,0.01,0.01,1.0,0.0,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d488,Cháo cua biển mướp hương,Món ăn,Món khác,Tiểu đường,150.0,25.0,7.0,3.0,1.0,0.5,0.01,0.02,1.0,0.05,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d489,Cháo đậu xanh cá hồi,Món ăn,Món khác,Cao huyết áp,400.0,45.0,25.0,10.0,2.5,0.4,0.015,0.125,1.5,0.06,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d489,Cháo đậu xanh cá hồi,Món ăn,Món khác,Cao huyết áp,400.0,45.0,25.0,10.0,2.5,0.4,0.015,0.125,1.5,0.06,0.0025,"Calo: 400, Carbohydrate: 45, Protein: 25, Fat: 10, Fiber: 2.5, Sodium: 0.4, VitaminC: 0.015, Purine: 0.125, Sugar: 1.5, Cholesterol: 0.06, Iron: 0.0025",static/uploads/dishes/chao-dau-xanh-ca-hoi.jpg,"Cá hồi: 300 – 400g;
+Cơm: 2/3 chén;
+Đậu xanh tách vỏ: 20g;
+Bắp hạt: 20g;
+Bột nghệ: 3g;
+Tỏi: 3 tép (băm nhỏ);
+Hành tím: 1 củ (băm nhỏ);
+Dầu ô-liu: 5 ml;
+Muối: 1g;
+Hạt nêm: 2g;
+Đường ăn kiêng: 1g;
+Hạt tiêu.","Bước 1: Sơ chế và xử lý cá hồi:
+Rửa sạch cá hồi, ngâm trong nước chanh pha loãng khoảng 10 phút để khử mùi tanh;
+Luộc cá hồi với một lát gừng nhỏ. Khi cá chín, vớt ra và giữ lại nước luộc;
+Làm tơi thịt cá bằng đũa sau khi đã luộc;
+Ướp cá với bột nêm và tiêu trong khoảng 10 phút;
+Đặt chảo lên bếp, cho dầu ô-liu vào và phi thơm hành tím cùng tỏi băm. Sau đó, cho cá vào chảo, đảo đều cho đến khi cá hơi săn lại.
+Bước 2: Nấu cháo:
+Ngâm đậu xanh trong nước ấm khoảng 1-2 tiếng cho đến khi nở mềm;
+Dùng nước luộc cá để nấu đậu xanh. Khi đậu gần nhừ, cho cơm và bắp hạt vào nồi nấu tiếp;
+Thêm bột nghệ để tạo màu vàng đẹp mắt cho cháo;
+Tiếp tục hầm cho đến khi cháo nhừ, nêm muối và đường cho vừa ăn rồi tắt bếp.",2024-11-28 07:53:04.878,2024-12-08 16:29:29.021
 67441138c36b585cf943d48a,Cháo ếch nấm và lá lốt,Món ăn,Món khác,Tiểu đường,250.0,30.0,15.0,6.0,1.0,0.3,0.01,0.02,1.0,0.05,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d48b,Xôi đậu xanh hạt sen,Món ăn,Món khác,Tiểu đường,250.0,50.0,6.0,4.0,2.0,0.2,0.01,0.0,1.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d48c,Xôi hạt dẻ đậu xanh,Món ăn,Món khác,Tiểu đường,220.0,45.0,5.0,3.0,3.0,0.2,0.01,0.0,2.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -509,7 +713,28 @@ Bạn cho bún vào tô rồi thêm nước dùng và cá vào thì bạn đã c
 67441138c36b585cf943d49d,Bánh cuốn cá rau củ,Món ăn,Ăn vặt,Tiểu đường,350.0,60.0,20.0,6.0,2.0,0.4,0.01,0.01,1.0,0.05,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d49e,Bánh cuốn tráng chảo với thịt băm nấm mèo,Món ăn,Ăn vặt,Tiểu đường,400.0,55.0,18.0,10.0,2.0,0.5,0.0,0.02,1.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d49f,Bánh cuốn nhân ức gà nấm mèo,Món ăn,Ăn vặt,Tiểu đường,350.0,50.0,22.0,8.0,2.0,0.5,0.0,0.02,1.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d4a0,Bánh cuốn gấc nhân rau củ,Món ăn,Ăn vặt,Tiểu đường,320.0,60.0,8.0,6.0,2.0,0.4,0.01,0.01,1.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d4a0,Bánh cuốn gấc nhân rau củ,Món ăn,Món chính,Tiểu đường,320.0,60.0,8.0,6.0,2.0,0.4,0.01,0.01,1.0,0.0,0.002,"Calo: 320, Carbohydrate: 60, Protein: 8, Fat: 6, Fiber: 2, Sodium: 0.4, VitaminC: 0.01, Purine: 0.01, Sugar: 1, Cholesterol: 0, Iron: 0.002",static/uploads/dishes/banh-cuon-gac.jpg,"100g bột gạo;
+50g bột năng;
+30g gấc;
+250 – 300 ml nước lọc;
+1/2 củ sắn;
+1 củ cà rốt;
+50g nấm mèo;
+Một ít hành boa rô để phần nhân thêm bắt mắt;
+Hạt nêm nấm, muối, tiêu, đường ăn kiêng (lượng tùy ý);
+10 – 15 ml dầu ô-liu;
+1 muỗng canh hành phi;","Chuẩn bị bột:
+Xay nhuyễn gấc với một ít nước.
+Trong một bát lớn, trộn bột gạo, bột năng, nước lọc, gấc xay nhuyễn, một muỗng cà phê muối và một muỗng canh dầu ô-liu. Khuấy đều cho đến khi hỗn hợp mịn và để bột nghỉ khoảng 1 giờ.
+Chuẩn bị nhân:
+Gọt vỏ và cắt hạt lựu hoặc băm nhỏ củ sắn và cà rốt.
+Ngâm nấm mèo cho đến khi nở, rửa sạch và cắt sợi.
+Trên chảo nóng, phi thơm hành boa rô với một ít dầu ô-liu, sau đó thêm nấm mèo và xào. Tiếp tục cho cà rốt và cuối cùng là củ sắn vào xào.
+Nêm hạt nêm, muối, đường ăn kiêng vừa khẩu vị và cuối cùng thêm chút tiêu.
+Tráng và gói bánh:
+Đặt chảo lên bếp với lửa vừa. Khuấy đều hỗn hợp bột, sau đó múc một lượng vừa đủ đổ đều vào chảo. Đậy nắp lại 1 – 2 phút để bánh chín.
+Khi bánh chín, lấy ra đĩa, đặt một lượng nhân vừa phải vào giữa bánh rồi gói lại.
+Thưởng thức: Xếp bánh cuốn ra đĩa, rắc thêm ít hành phi và rau giá hấp bên trên rồi dùng ngay với nước mắm chua ngọt.",2024-11-28 07:53:04.878,2024-12-08 15:52:48.051
 67441138c36b585cf943d4a1,Bánh ít lá gai nhân đậu xanh,Món ăn,Ăn vặt,Tiểu đường,300.0,55.0,7.0,5.0,2.0,0.3,0.0,0.01,5.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d4a2,Bánh ít nhân tôm thịt,Món ăn,Ăn vặt,Tiểu đường,450.0,40.0,20.0,18.0,1.0,0.5,0.0,0.02,2.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d4a3,Bánh ít lá gai sên dừa,Món ăn,Ăn vặt,Tiểu đường,350.0,60.0,5.0,10.0,2.0,0.3,0.0,0.01,6.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -545,7 +770,22 @@ Bạn cho bún vào tô rồi thêm nước dùng và cá vào thì bạn đã c
 67441138c36b585cf943d4c1,Salad cá hồi dưa hấu và xoài,Món ăn,Món khác,Tiểu đường,200.0,15.0,15.0,8.0,2.0,0.2,0.04,0.02,4.0,0.1,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d4c2,Salad rau rocket dưa hấu và củ cải đỏ,Món ăn,Món khác,Cao huyết áp,100.0,10.0,2.0,7.0,2.5,0.15,0.04,0.015,6.0,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d4c3,Salad cà chua và dưa hấu,Món ăn,Món khác,Cao huyết áp,80.0,15.0,1.0,2.0,2.5,0.15,0.04,0.015,7.0,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d4c4,Salad dưa hấu và hạt quinoa,Món ăn,Món khác,Tiểu đường,200.0,25.0,6.0,8.0,3.0,0.1,0.05,0.0,5.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d4c4,Salad dưa hấu và hạt quinoa,Món ăn,Món khác,Tiểu đường,200.0,25.0,6.0,8.0,3.0,0.1,0.05,0.0,5.0,0.0,0.002,"Calo: 200, Carbohydrate: 25, Protein: 6, Fat: 8, Fiber: 3, Sodium: 0.1, VitaminC: 0.05, Purine: 0, Sugar: 5, Cholesterol: 0, Iron: 0.002",static/uploads/dishes/tieu-duong-an-duoc-dua-hau-khong.jpg,"Hạt quinoa: 150g đã được luộc chín;
+Dưa hấu: 150g cắt hạt lựu;
+Xà lách rocket: 200g;
+Dưa chuột: 100g cắt hạt lựu;
+Hành tây đỏ: 75g thái mỏng;
+Lá bạc hà: 30g cắt nhỏ;
+Lá mùi tàu (ngò rí): 15g cắt nhỏ;
+Nước chanh: 50 ml;
+Dầu ô-liu: 30 ml;
+Muối: 2g;
+Hạt tiêu: 1g.
+Đường ăn kiêng: 5 – 10g (nếu cần).","Trong một tô lớn, kết hợp quinoa nấu chín, dưa hấu, dưa chuột và hành tây đỏ.
+Thêm lá bạc hà, rau rocket và ngò rí vào tô và nhẹ nhàng trộn đều.
+Trong một bát nhỏ, pha nước chanh, dầu ô-liu, muối, đường ăn kiêng và tiêu để làm nước sốt.
+Đổ nước sốt lên trên hỗn hợp salad và trộn đều.
+Để salad trong tủ lạnh ít nhất 30 phút trước khi thưởng thức bởi món này ngon hơn khi dùng lạnh.",2024-11-28 07:53:04.878,2024-12-08 16:34:21.567
 67441138c36b585cf943d4c5,Salad táo sốt mè rang,Món ăn,Món khác,Tiểu đường,150.0,20.0,2.0,8.0,3.0,0.2,0.04,0.0,5.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d4c6,Gà nướng táo và rau củ,Món ăn,Món chính,Tiểu đường,250.0,20.0,30.0,10.0,2.0,0.4,0.03,0.02,3.0,0.1,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d4c7,Sinh tố cam táo cần tây,Đồ uống,Sinh tố,Tiểu đường,130.0,30.0,1.0,0.5,2.0,0.1,0.06,0.0,10.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -569,7 +809,19 @@ Bạn cho bún vào tô rồi thêm nước dùng và cá vào thì bạn đã c
 67441138c36b585cf943d4d9,Sườn non nấu đậu phộng,Món ăn,Món chính,Tiểu đường,450.0,20.0,28.0,25.0,1.0,0.4,0.01,0.02,1.0,0.1,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d4da,Canh mướp hương đậu phộng,Món ăn,Món khác,Tiểu đường,160.0,18.0,8.0,7.0,2.0,0.3,0.03,0.0,1.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d4db,Rau muống xào đậu phộng,Món ăn,Món chay,Tiểu đường,200.0,12.0,5.0,14.0,3.0,0.3,0.04,0.0,1.0,0.0,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d4dc,Sữa đậu phộng mè đen,Đồ uống,Sữa hạt,Tiểu đường,370.0,17.5,10.0,30.0,1.0,0.1,0.0,0.0,6.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d4dc,Sữa đậu phộng mè đen,Đồ uống,Sữa hạt,Tiểu đường,370.0,17.5,10.0,30.0,1.0,0.1,0.0,0.0,6.0,0.0,0.002,"Calo: 370, Carbohydrate: 17.5, Protein: 10, Fat: 30, Fiber: 1, Sodium: 0.1, VitaminC: 0, Purine: 0, Sugar: 6, Cholesterol: 0, Iron: 0.002",static/uploads/dishes/Sua_au_phong_me_en1.jpg,"Đậu phộng: 150g;
+Mè đen: 100g;
+Đường ăn kiêng: 80g;
+Nước: 400 – 500 ml.","Chuẩn bị nguyên liệu:
+Rang chín đậu phộng và mè đen. Để nguội.
+Ngâm đậu phộng trong nước cho đến khi mềm, bóc bỏ vỏ.
+Nấu sữa:
+Cho đậu phộng, mè đen và nước vào máy xay sinh tố, xay nhuyễn.
+Sau đó, lọc hỗn hợp qua rây hoặc vải lọc để loại bỏ bã, chỉ lấy phần nước.
+Đun sữa đậu phộng mè đen trên bếp với lửa nhỏ, thêm đường ăn kiêng vào khuấy đều. Đun sôi khoảng 5 – 10 phút cho đường tan hết và hỗn hợp sánh lại.
+Hoàn thiện món sữa:
+Rót sữa đậu phộng mè đen ra ly, để nguội và thưởng thức.
+Sữa có thể uống ấm hoặc để trong ngăn mát và uống lạnh.",2024-11-28 07:53:04.878,2024-12-08 18:12:02.126
 67441138c36b585cf943d4dd,Súp bắp hải sản,Món ăn,Món khác,Tiểu đường,300.0,25.0,25.0,5.0,2.0,0.3,0.02,0.02,2.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d4de,Salad bắp cà chua và trứng gà,Món ăn,Món khác,Cao huyết áp,250.0,15.0,12.0,18.0,2.5,0.3,0.004,0.015,1.5,0.125,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d4df,Bông cải trắng xào bắp nấm,Món ăn,Món khác,Tiểu đường,150.0,12.0,5.0,7.0,3.0,0.3,0.04,0.0,2.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -585,8 +837,48 @@ Bạn cho bún vào tô rồi thêm nước dùng và cá vào thì bạn đã c
 67441138c36b585cf943d4e9,Yến chưng hạt sen và táo tàu,Món ăn,Món khác,Tiểu đường,60.0,12.0,2.0,0.0,1.0,0.1,0.01,0.0,7.0,0.0,0.001,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d4ea,Lẩu riêu tôm cua,Món ăn,Món khác,Tiểu đường,500.0,15.0,40.0,20.0,2.0,0.5,0.02,0.03,2.0,0.1,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d4eb,Chả giò tôm cua,Món ăn,Món chính,Tiểu đường,300.0,25.0,18.0,15.0,1.0,0.4,0.01,0.02,1.0,0.1,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d4ec,Mì gạo lứt xào tôm cua,Món ăn,Món khác,Tiểu đường,350.0,45.0,18.0,10.0,2.0,0.3,0.02,0.03,2.0,0.1,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d4ed,Gỏi nha đam trộn tôm cua,Món ăn,Món chính,Tiểu đường,220.0,20.0,15.0,9.0,3.0,0.2,0.04,0.02,3.0,0.1,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d4ec,Mì gạo lứt xào tôm cua,Món ăn,Món khác,Tiểu đường,350.0,45.0,18.0,10.0,2.0,0.3,0.02,0.03,2.0,0.1,0.004,"Calo: 350, Carbohydrate: 45, Protein: 18, Fat: 10, Fiber: 2, Sodium: 0.3, VitaminC: 0.02, Purine: 0.03, Sugar: 2, Cholesterol: 0.1, Iron: 0.004",static/uploads/dishes/mi-gao-lut-xao-tom-cua.jpg,"200g mì gạo lứt;
+100g tôm, đã bóc vỏ và lột chỉ lưng;
+100g thịt cua đã gỡ sẵn;
+1 quả cà chua, thái hạt lựu;
+1 củ hành tây, thái mỏng;
+1 củ cà rốt, thái sợi;
+100g giá đỗ;
+2 nhánh hành lá, thái nhỏ;
+1 ít rau mùi (ngò), thái nhỏ;
+3 tép tỏi, băm nhỏ;
+2 muỗng canh dầu ăn (dầu ô-liu hoặc dầu hướng dương);
+Gia vị: muối, tiêu, nước mắm nguyên chất (điều chỉnh theo khẩu vị).","Sơ chế mì gạo lứt: Ngâm mì gạo lứt trong nước ấm khoảng 30 phút để mềm. Sau đó, đun sôi một nồi nước, cho mì vào luộc khoảng 5-7 phút, sau đó vớt ra và xả qua nước lạnh để mì không bị dính.
+Xào phần sốt:
+Đun nóng dầu trong chảo, thêm tỏi băm vào phi thơm. Sau đó, thêm hành tây vào xào cho đến khi chúng trở nên trong suốt.
+Thêm tôm và cua vào chảo, xào nhanh tay trên lửa lớn để tôm và cua săn lại nhưng vẫn giữ được độ tươi ngon.
+Thêm cà chua và cà rốt vào chảo, đảo đều. Sau đó, cho giá đỗ vào và xào đến khi tất cả nguyên liệu chín tới.
+Xào mì và nêm nếm vừa ăn:
+Thêm mì gạo lứt vào chảo cùng với các nguyên liệu đã xào. Nêm nếm với một ít muối, tiêu và nước mắm để vừa khẩu vị.
+Đảo đều để mì thấm đều gia vị và hòa quyện với các nguyên liệu.
+Hoàn thành và trình bày:
+Cuối cùng, thêm hành lá và rau mùi vào, đảo đều và tắt bếp.
+Múc mì gạo lứt xào tôm cua ra đĩa và thưởng thức khi còn nóng.",2024-11-28 07:53:04.878,2024-12-08 16:15:06.062
+67441138c36b585cf943d4ed,Gỏi nha đam trộn tôm cua,Món ăn,Món chính,Tiểu đường,220.0,20.0,15.0,9.0,3.0,0.2,0.04,0.02,3.0,0.1,0.002,"Calo: 220, Carbohydrate: 20, Protein: 15, Fat: 9, Fiber: 3, Sodium: 0.2, VitaminC: 0.04, Purine: 0.02, Sugar: 3, Cholesterol: 0.1, Iron: 0.002",static/uploads/dishes/goi-nha-dam.jpg,"200g tôm tươi, bóc vỏ và bỏ chỉ lưng
+200g thịt cua tươi hoặc cua đồng đã gỡ sẵn
+300g nha đam (lô hội) đã gọt vỏ và ngâm nước muối loãng
+1 quả dưa leo, thái sợi
+1 củ cà rốt nhỏ, bào mỏng
+1 củ hành tây, thái mỏng
+1 ít rau mùi và húng quế
+2 muỗng canh đậu phộng rang, giã nhỏ
+1 quả chanh, vắt lấy nước
+Gia vị: nước mắm nguyên chất, đường thay thế (như stevia hoặc erythritol), ớt tươi (nếu thích)","Sơ chế nguyên liệu:
+Tôm luộc chín, ngâm ngay vào nước lạnh để giữ độ giòn rồi sau đó tách bỏ vỏ;
+Cua nếu mua sống thì luộc chín và gỡ thịt.
+Nha đam sau khi gọt vỏ, rửa sạch dưới vòi nước lạnh để loại sạch nhớt. Sau đó, cắt thành từng miếng nhỏ hoặc sợi vừa ăn, tiếp tục ngâm trong nước đá lạnh khoảng 20 phút để giảm độ nhớt và giữ độ giòn.
+Làm nước trộn gỏi: Pha nước chanh, nước mắm, đường ăn kiêng với một chút ớt băm nhỏ (tuỳ chọn) để tạo nước trộn gỏi có vị chua ngọt dịu, thích hợp cho người tiểu đường.
+Trộn gỏi:
+Trong một bát lớn, trộn đều tôm, cua, nha đam, dưa leo, cà rốt với hành tây.
+Đổ nước trộn gỏi đã chuẩn bị lên trên, trộn đều để các nguyên liệu ngấm gia vị.
+Hoàn thành và trình bày:
+Rắc đậu phộng đã giã nhỏ và rau thơm lên trên.
+Trình bày gỏi trên đĩa và thưởng thức. Nếu chưa dùng ngay, có thể bảo quản gỏi trong ngăn mát tủ lạnh để nha đam giữ được độ giòn.",2024-11-28 07:53:04.878,2024-12-08 15:30:34.063
 67441138c36b585cf943d4ee,Súp măng tây tôm cua,Món ăn,Món khác,Tiểu đường,120.0,10.0,12.0,3.0,2.0,0.3,0.03,0.02,1.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d4ef,Cá hồi nướng chanh vàng,Món ăn,Món chính,Cao huyết áp,280.0,5.0,25.0,20.0,0.5,0.75,0.025,0.175,0.5,0.07,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d4f0,Canh măng chua nấu cá rô phi,Món ăn,Món khác,Tiểu đường,200.0,15.0,18.0,10.0,1.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -647,7 +939,16 @@ Bạn cho bún vào tô rồi thêm nước dùng và cá vào thì bạn đã c
 67441138c36b585cf943d527,Canh cải xoong nấu thịt nạc heo,Món ăn,Món khác,Cao huyết áp,150.0,6.0,15.0,5.0,2.5,0.7,0.025,0.125,1.5,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d528,Cháo thịt băm,Món ăn,Món khác,Cao huyết áp,180.0,30.0,10.0,3.0,1.5,0.6,0.015,0.125,1.5,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d529,Canh cải cúc thịt nạc heo,Món ăn,Món khác,Cao huyết áp,150.0,8.0,15.0,5.0,2.5,0.7,0.025,0.125,1.5,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d52a,Khoai tây xào gà,Món ăn,Món chính,Cao huyết áp,250.0,25.0,15.0,10.0,3.5,0.6,0.025,0.125,2.5,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d52a,Khoai tây xào gà,Món ăn,Món chính,Cao huyết áp,250.0,25.0,15.0,10.0,3.5,0.6,0.025,0.125,2.5,0.06,0.0015,"Calo: 250, Carbohydrate: 25, Protein: 15, Fat: 10, Fiber: 3.5, Sodium: 0.6, VitaminC: 0.025, Purine: 0.125, Sugar: 2.5, Cholesterol: 0.06, Iron: 0.0015",static/uploads/dishes/khoai-tay-xao-ga.jpg,"500 gram thịt ức gà cắt dày 5-7 mm. Bạn ướp với 5 gram muối và 3 gram bột ngọt, 3 gram tiêu, để thấm ít nhất 30 phút. Sau đó các bạn áo qua một lớp mỏng bột năng.
+500 gram khoai tây không tính vỏ, cắt cọng dày 1 cm.
+1 củ hành tây lột vỏ, cắt múi cam.
+1 trái cà chua chín cắt múi cam.
+1/2 trái ớt chuông xanh cắt sợi 1 cm (theo sở thích).
+1 trái ớt sừng loại không cay, bỏ hạt, cắt sợi.
+Vài cọng hành hương cắt khúc 3 cm.
+Vị nêm: 20 gr dầu hào, 20 gr sốt cà chua, 20 gr nước, 1/2 muỗng cà phê đường, 1/3 muỗng cà phê tiêu, 1/2 muỗng cà phê dầu mè... Tất cả trộn đều.","Đầu tiên bạn cho gà vào chiên ngập dầu đến hơi vàng, rồi gắp để ráo. Khoai tây cũng chiên vàng, vớt để ráo.
+Chuẩn bị chảo, bạn cho 30 g dầu ăn, 20 g tỏi bằm phi vàng thơm, hành tây, cà chua, ớt chuông vào đảo nhanh tay vài lượt.
+Sau đó thêm gà và khoai tây vào, thêm gia vị nêm vào đảo đều cho thấm gia vị. Tiếp theo bạn tắt bếp rồi mới cho hành và ớt sừng vào trộn đều.",2024-11-28 07:53:04.878,2024-12-08 15:42:22.854
 67441138c36b585cf943d52b,Canh Cải Bó Xôi Nấu Nấm Rơm,Món ăn,Món khác,Cao huyết áp,80.0,8.0,4.0,3.0,2.5,0.5,0.025,0.075,1.5,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d52c,Canh cà rốt thịt bằm,Món ăn,Món khác,Cao huyết áp,120.0,8.0,10.0,5.0,2.5,0.6,0.025,0.125,2.5,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d52d,Cà rốt xào nấm đông cô,Món ăn,Món chay,Cao huyết áp,100.0,15.0,3.0,4.0,3.5,0.4,0.025,0.015,2.5,0.0,0.0015,"Calo: 100, Carbohydrate: 15, Protein: 3, Fat: 4, Fiber: 3.5, Sodium: 0.4, VitaminC: 0.025, Purine: 0.015, Sugar: 2.5, Cholesterol: 0, Iron: 0.0015",static/uploads/dishes/ca-rot-xao-nam-dong-co-mon-chay.jpg,"Cà rốt 100 Gr
@@ -705,7 +1006,17 @@ Cho canh ra tô thêm hành lá cắt khúc, ít tiêu, dùng nóng. Đậu hủ
 67441138c36b585cf943d547,Canh xương nấu bí đỏ,Món ăn,Món khác,Thiếu cân,150.0,10.0,12.0,8.0,2.0,0.3,0.02,0.02,2.0,0.1,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d548,Canh nấm đậu phụ non,Món ăn,Món khác,Thiếu cân,80.0,6.0,5.0,3.0,2.0,0.3,0.01,0.0,1.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d549,Bánh flan ,Món ăn,Ăn vặt,Thiếu cân,160.0,20.0,4.0,8.0,0.0,0.1,0.0,0.0,20.0,0.1,0.001,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d54a,Sinh tố bơ,Đồ uống,Sinh tố,Thiếu cân,200.0,25.0,3.0,12.0,4.0,0.1,0.06,0.0,8.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d54a,Sinh tố bơ,Đồ uống,Sinh tố,Thiếu cân,200.0,25.0,3.0,12.0,4.0,0.1,0.06,0.0,8.0,0.0,0.002,"Calo: 200, Carbohydrate: 25, Protein: 3, Fat: 12, Fiber: 4, Sodium: 0.1, VitaminC: 0.06, Purine: 0, Sugar: 8, Cholesterol: 0, Iron: 0.002",static/uploads/dishes/sinh-to-bo.jpg,"1 trái bơ chín
+20ml sữa đặc
+50ml sữa tươi
+Đá viên nhỏ","Bước 1 Sơ chế nguyên liệu
+Cắt bơ làm đôi theo chiều dọc, lấy bỏ hột và màng bọc vỏ hột còn dính.
+Dùng dao cắt các đường dọc ngang trên phần thịt rồi dùng muỗng múc ra tô, bỏ phần vỏ.
+Bước 2 Làm sinh tố bơ
+Cho bơ, sữa đặc, sữa tươi và đá vào máy xay sinh tố, xay cho thật nhuyễn.
+Nếu bạn thích ăn ngọt hơn thì điều chỉnh thêm phần sữa đặc nhé, vì cho sữa tươi nhiều thì vị bơ sẽ khác đi, sinh tố loãng không còn béo ngậy.
+Thành phẩm
+Chỉ cần vài bước là bạn đã hoàn thành món sinh tố bơ mát lạnh và đầy dinh dưỡng cho cả nhà rồi. Ly sinh tố này là sự kết hợp giữa vị thơm béo của bơ và vị ngọt đặc trưng của sữa đặc khiến ai cũng yêu thích khi uống thử. Còn chần chờ gì nữa mà không vào bếp trổ tài ngay nào!",2024-11-28 07:53:04.878,2024-12-09 09:23:24.334
 67441138c36b585cf943d54b,Thịt bò xào hành tây,Món ăn,Món chính,Thiếu máu,180.0,5.0,20.0,8.0,1.5,0.6,0.01,0.05,2.0,0.08,0.005,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d54c,Canh bí thịt bằm,Món ăn,Món khác,Thiếu cân,120.0,6.0,10.0,5.0,2.0,0.3,0.02,0.02,2.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d54d,Bò né,Món ăn,Món chính,Thiếu cân,250.0,10.0,20.0,18.0,0.0,0.4,0.0,0.03,1.0,0.1,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -715,7 +1026,25 @@ Cho canh ra tô thêm hành lá cắt khúc, ít tiêu, dùng nóng. Đậu hủ
 67441138c36b585cf943d551,Chè trôi nước,Món ăn,Ăn vặt,Thiếu cân,250.0,45.0,2.0,6.0,1.0,0.1,0.0,0.0,20.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d552,Chè khoai môn,Món ăn,Ăn vặt,Thiếu cân,220.0,40.0,3.0,5.0,2.0,0.1,0.01,0.0,15.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d553,Chè chuối,Món ăn,Ăn vặt,Thiếu cân,210.0,35.0,3.0,6.0,2.0,0.1,0.02,0.0,18.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d554,Sữa đậu nành,Đồ uống,Sữa hạt,Thiếu cân,80.0,6.0,7.0,4.0,1.0,0.1,0.0,0.0,6.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d554,Sữa đậu nành,Đồ uống,Sữa hạt,Thiếu cân,80.0,6.0,7.0,4.0,1.0,0.1,0.0,0.0,6.0,0.0,0.002,"Calo: 80, Carbohydrate: 6, Protein: 7, Fat: 4, Fiber: 1, Sodium: 0.1, VitaminC: 0, Purine: 0, Sugar: 6, Cholesterol: 0, Iron: 0.002",static/uploads/dishes/suadaunanh.jpg,"200g đậu nành (tươi hoặc khô, tùy ý)
+1 lít nước lọc
+Đường (tùy khẩu vị)
+Một ít lá dứa (nếu muốn tạo hương thơm tự nhiên)
+Một chút muối (tùy chọn để tăng hương vị)
+Máy xay sinh tố (nếu làm theo cách truyền thống)
+Nồi nấu sữa
+Rây lọc hoặc khăn xô
+Máy làm sữa hạt (nếu làm theo phương pháp hiện đại)","Xay và lọc đậu
+Sau khi đậu đã ngâm mềm, bước tiếp theo là xay và lọc đậu để lấy nước cốt:
+Đậu sau khi ngâm được rửa sạch, sau đó cho vào máy xay sinh tố với một lượng nước vừa đủ (khoảng 500ml nước cho mỗi 100g đậu nành). Xay đến khi hỗn hợp trở nên mịn nhuyễn.
+Dùng khăn xô hoặc ray lọc để lọc hỗn hợp vừa xay. Bạn có thể lọc từ từ, vắt thật kỹ để lấy được hết phần nước cốt đậu nành. Phần bã đậu còn lại có thể sử dụng để làm bánh hoặc thức ăn cho gia súc.
+Nấu sữa đậu nành
+Sau khi lọc xong, nước cốt đậu nành sẽ được nấu chín để tạo thành sữa:
+Cho nước cốt đậu nành vào nồi, đun sôi ở lửa nhỏ. Trong quá trình đun, nên khuấy đều tay để tránh sữa bị cháy dưới đáy nồi.
+Khi sữa bắt đầu sôi, có thể cho thêm đường và lá dứa vào để tạo mùi thơm. Nấu thêm khoảng 10 phút để sữa chín hoàn toàn.
+Sau khi sữa chín, có thể thêm một chút muối để làm tăng hương vị của sữa.
+Thành phẩm
+Sau khi nấu xong, sữa đậu nành có thể được dùng ngay khi còn ấm hoặc để nguội và bảo quản trong tủ lạnh. Sữa tự làm có vị thơm ngon tự nhiên, không chứa chất bảo quản và có thể uống trong vòng 1-2 ngày để giữ được độ tươi ngon.",2024-11-28 07:53:04.878,2024-12-09 18:36:23.796
 67441138c36b585cf943d555,Salad cá hồi với dầu oliu,Món ăn,Món khác,Thiếu cân,180.0,10.0,15.0,12.0,2.0,0.2,0.03,0.02,1.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d556,Thịt bò xào súp lơ,Món ăn,Món chính,Thiếu cân,170.0,8.0,18.0,9.0,2.0,0.3,0.03,0.02,1.0,0.1,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d557,Canh măng ngan,Món ăn,Món khác,Thiếu cân,150.0,5.0,15.0,7.0,1.0,0.4,0.02,0.02,1.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -725,7 +1054,19 @@ Cho canh ra tô thêm hành lá cắt khúc, ít tiêu, dùng nóng. Đậu hủ
 67441138c36b585cf943d55b,Mì vịt tiềm,Món ăn,Món khác,Thiếu cân,350.0,40.0,20.0,15.0,3.0,0.5,0.02,0.03,2.0,0.1,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d55c,Mực nhồi thịt,Món ăn,Món chính,Thiếu cân,200.0,10.0,18.0,8.0,1.0,0.4,0.01,0.02,1.0,0.1,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d55d,Thịt kho củ cải,Món ăn,Món chính,Thiếu cân,180.0,6.0,15.0,10.0,2.0,0.3,0.01,0.02,3.0,0.1,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d55e,Sinh tố dừa,Đồ uống,Sinh tố,Thiếu cân,250.0,25.0,3.0,15.0,2.0,0.1,0.01,0.0,12.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d55e,Sinh tố dừa,Đồ uống,Sinh tố,Thiếu cân,250.0,25.0,3.0,15.0,2.0,0.1,0.01,0.0,12.0,0.0,0.002,"Calo: 250, Carbohydrate: 25, Protein: 3, Fat: 15, Fiber: 2, Sodium: 0.1, VitaminC: 0.01, Purine: 0, Sugar: 12, Cholesterol: 0, Iron: 0.002",static/uploads/dishes/sinh-to-dua.jpg,"Dừa tươi 1 quả
+ Sữa tươi có đường 110 ml
+ Sữa đặc 3 muỗng canh
+ Đường 2 muỗng canh
+ Đá viên 1 ít","Sơ chế dừa tươi
+Dừa mua về lau vỏ ngoài cho sạch bớt rồi đem đi chặt lấy nước để riêng cho vào ly.
+Tiếp tục bạn sẽ bổ đôi quả dừa, dùng dao hoặc muỗng múc phần cơm dừa ra chén rồi cắt thành từng miếng nhỏ để xay sinh tố dễ dàng hơn nhé!
+Lưu ý: Trong quá trình lấy cơm dừa thị bạn cần tránh lọc phải màng cứng của dừa vì như thế món sinh tố sẽ không còn được thơm ngon và có màu sắc loang lỗ.
+Xay sinh tố dừa với sữa
+Cho vào máy xay sinh tố toàn bộ phần cơm dừa, 110ml sữa tươi có đường, 3 muỗng canh sữa đặc, 2 muỗng canh đường, đá viên và 1 ít nước dừa tươi cho hỗn hợp không quá đặc. Bạn có thể gia giảm lượng đường sữa cho phù hợp với khẩu vị của mình nhé!
+Sau đó bạn xay hỗn hợp ở tốc độ vừa trong khoảng 3 - 5 phút đến khi thu được hỗn hợp sánh mịn là hoàn thành.
+Thành phẩm
+Sau khi thực hiện xong các bước trên là bạn đã có ngay cho mình ly sinh tố dừa thơm ngon, sánh mịn, vị béo ngậy mà không bị ngấy, có màu trắng sữa, đều màu và vô cùng đẹp mắt.",2024-11-28 07:53:04.878,2024-12-08 17:01:24.607
 67441138c36b585cf943d55f,Mực xào rau củ,Món ăn,Món chính,Thiếu cân,180.0,10.0,18.0,8.0,2.0,0.3,0.02,0.02,1.0,0.1,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d560,Bánh chuối chiên,Món ăn,Ăn vặt,Thiếu cân,220.0,35.0,2.0,8.0,1.0,0.1,0.01,0.0,15.0,0.02,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d561,Sinh tố xoài,Đồ uống,Sinh tố,Thiếu cân,150.0,30.0,2.0,2.0,2.0,0.1,0.05,0.0,12.0,0.0,0.001,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -771,13 +1112,40 @@ Cho canh ra tô thêm hành lá cắt khúc, ít tiêu, dùng nóng. Đậu hủ
 67441138c36b585cf943d589,Bánh bông lan cuộn trái cây charlotte,Món ăn,Ăn vặt,Thiếu cân,250.0,35.0,4.0,12.0,1.5,0.25,0.015,0.015,22.5,0.06,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d58a,Gà chiên giòn sốt cay,Món ăn,Món chính,Thiếu cân,350.0,20.0,25.0,18.0,0.5,0.6,0.015,0.125,6.0,0.125,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d58b,Gà Chiên Hàn Quốc,Món ăn,Món chính,Thiếu cân,400.0,30.0,26.0,20.0,0.5,0.6,0.015,0.125,6.0,0.125,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d58c,Sinh tố chuối dâu tây hạt chia,Đồ uống,Sinh tố,Thiếu cân,180.0,30.0,3.0,5.0,4.5,0.15,0.04,0.125,17.5,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d58d,Sinh tố bơ sữa chua,Đồ uống,Sinh tố,Thiếu cân,160.0,20.0,3.0,8.0,2.5,0.15,0.025,0.015,12.5,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d58c,Sinh tố chuối dâu tây hạt chia,Đồ uống,Sinh tố,Thiếu cân,180.0,30.0,3.0,5.0,4.5,0.15,0.04,0.125,17.5,0.0,0.0015,"Calo: 180, Carbohydrate: 30, Protein: 3, Fat: 5, Fiber: 4.5, Sodium: 0.15, VitaminC: 0.04, Purine: 0.125, Sugar: 17.5, Cholesterol: 0, Iron: 0.0015",static/uploads/dishes/Sinh_to_chuoi_dau_tay_hat_chia1.jpg,"Chuối 1 Trái 
+Dâu tây 400 Gr
+Hạt chia 2 Muỗng canh
+Sữa tươi có đường 250 ml","Chuối nên chọn chuối tiêu sẽ thơm hơn nhiều, đem chuối bóc vỏ cắt khúc ngắn. Dâu tây bỏ cuốn rửa sạch.
+Cho vào máy xay sinh tố gồm chuối, dâu tây, hạt chia và 250ml sữa tươi, bật máy xay nhuyễn mịn tất cả. 
+Nếu thích dùng lạnh có thể thêm vào ít đá bào xay cùng nhé! Rót sinh tố ra ly và thưởng thức ngay thôi nào!
+",2024-11-28 07:53:04.878,2024-12-08 17:29:34.052
+67441138c36b585cf943d58d,Sinh tố bơ sữa chua,Đồ uống,Sinh tố,Thiếu cân,160.0,20.0,3.0,8.0,2.5,0.15,0.025,0.015,12.5,0.06,0.0015,"Calo: 160, Carbohydrate: 20, Protein: 3, Fat: 8, Fiber: 2.5, Sodium: 0.15, VitaminC: 0.025, Purine: 0.015, Sugar: 12.5, Cholesterol: 0.06, Iron: 0.0015",static/uploads/dishes/lam-sinh-to-bo-sua-chua-giu-dang-dep-da.jpg,"1 quả bơ chín
+200ml sữa tươi không đường
+100ml sữa đặc
+1 hộp sữa chua có đường
+Đá bào","Bước 1: Cắt đôi quả bơ, bỏ hạt, sau đó thái thành từng miếng nhỏ.
+Bước 2: Bạn nên lấy hết thịt của quả bơ, nhất là phần màu xanh gần vỏ, vì đó là phần nhiều dưỡng chất nhất trong quả bơ.
+Bước 3: Cho bơ vào máy xay sinh tố cùng với sữa tươi, sữa đặc và sữa chua rồi xay cho hỗn hợp nhuyễn mịn.
+Bước 4: Tùy vào sở thích, mà bạn có thể gia giảm lượng đường cho phù hợp với mình.
+Bước 5: Sau khi hỗn hợp đã nhuyễn, bạn cho tiếp đá bào vào, tiếp tục xay cho hỗn hợp đồng nhất với nhau.
+Bước 6: Nếu bạn không thích thêm đá vào xay, có thể để sinh tố bơ sữa chua vào ngăn mát tủ lạnh, sau 1 giờ có thể lấy ra dùng.",2024-11-28 07:53:04.878,2024-12-08 17:15:22.999
 67441138c36b585cf943d58e,Kem bơ,Món ăn,Ăn vặt,Thiếu cân,250.0,25.0,4.0,15.0,1.5,0.15,0.015,0.015,17.5,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d58f,Sinh tố sữa dừa,Đồ uống,Sinh tố,Thiếu cân,200.0,25.0,3.0,10.0,1.5,0.15,0.015,0.015,12.5,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d590,Sinh tố cà chua,Đồ uống,Sinh tố,Thiếu cân,90.0,18.0,2.0,1.0,2.5,0.15,0.04,0.015,6.0,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d58f,Sinh tố sữa dừa,Đồ uống,Sinh tố,Thiếu cân,200.0,25.0,3.0,10.0,1.5,0.15,0.015,0.015,12.5,0.0,0.0015,"Calo: 200, Carbohydrate: 25, Protein: 3, Fat: 10, Fiber: 1.5, Sodium: 0.15, VitaminC: 0.015, Purine: 0.015, Sugar: 12.5, Cholesterol: 0, Iron: 0.0015",static/uploads/dishes/cach-lam-sinh-to-dua-2.jpg,"Cùi dừa 400 Gr
+Sữa đặc 2 Muỗng canh
+Sữa tươi có đường 1 Bịch
+Chanh 1/4 Trái
+Đá 50 Gr","Cùi dừa đã được lấy sẵn cho ra đĩa, tiếp theo là cho vào máy xay sinh tố.
+Kế đến là cho đá viên vào (số lượng có thể thay đổi tùy sở thích), sau đó là cho tiếp bịch sữa tươi có đường vào.
+Theo sau sữa tươi sẽ là sữa đặc có đường và một ít nước cốt chanh để mùi vị thêm thơm và hấp dẫn nhé.
+Đã hoàn thành các bước cho nguyên liệu vào máy xay. Giờ chỉ cần bấm máy và say sinh tố đến nhuyễn mịn là được nhé.
+Sinh tố sữa dừa vừa béo vừa thơm, kích thích người thưởng thức. Còn gì hơn khi được thưởng thức một ly sinh tố sữa dừa vào trưa hè!",2024-11-28 07:53:04.878,2024-12-08 17:28:41.507
+67441138c36b585cf943d590,Sinh tố cà chua,Đồ uống,Sinh tố,Thiếu cân,90.0,18.0,2.0,1.0,2.5,0.15,0.04,0.015,6.0,0.0,0.0015,"Calo: 90, Carbohydrate: 18, Protein: 2, Fat: 1, Fiber: 2.5, Sodium: 0.15, VitaminC: 0.04, Purine: 0.015, Sugar: 6, Cholesterol: 0, Iron: 0.0015",static/uploads/dishes/Sinh-to-ca-chua-11-e1584607052343.jpg,"Cà chua 5 Trái
+Sữa đặc 20 ml
+Sữa tươi 40 ml","Cà chua rửa sạch, để ráo, cắt làm 4. Nên chọn những trái cà chua tươi, không bị dập.
+Tiếp theo, cho cà chua, sữa đặc, sữa tươi, đá viên vào máy xay sinh tố, bật nút xay nhuyễn. Nếu thích uống ngọt hơn bạn có thể cho thêm đường vào.
+Rót sinh tố ra ly, dùng ngay nhé. Thức uống vừa ngon, vừa bổ dưỡng lại làm đẹp da nữa đấy.",2024-11-28 07:53:04.878,2024-12-08 17:34:23.375
 67441138c36b585cf943d591,Pudding bơ chocolate,Món ăn,Ăn vặt,Thiếu cân,300.0,30.0,4.0,18.0,1.5,0.15,0.01,0.01,22.5,0.05,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d592,Hồng trà sữa,Đồ uống,Loại khác,Thiếu cân,200.0,30.0,4.0,7.0,0.0,0.1,0.0,0.01,27.5,0.02,0.001,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d592,Hồng trà sữa,Đồ uống,Loại khác,Thiếu cân,200.0,30.0,4.0,7.0,0.0,0.1,0.0,0.01,27.5,0.02,0.001,null,static/uploads/dishes/Hong_tra_sua1.jpg,null,null,2024-11-28 07:53:04.878,2024-12-09 18:22:37.595
 67441138c36b585cf943d593,Trà sữa khoai môn,Đồ uống,Loại khác,Thiếu cân,250.0,40.0,3.0,8.0,1.0,0.1,0.01,0.01,32.5,0.02,0.001,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d594,Cà ri thái xanh tôm và củ hủ dừa,Món ăn,Món khác,Thiếu cân,350.0,15.0,20.0,22.0,2.5,0.5,0.02,0.05,5.0,0.1,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d595,Beef steak,Món ăn,Món chính,Thiếu cân,250.0,0.0,25.0,15.0,0.0,0.5,0.0,0.1,0.0,0.1,0.005,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -878,7 +1246,12 @@ Cho canh ra tô thêm hành lá cắt khúc, ít tiêu, dùng nóng. Đậu hủ
 67441138c36b585cf943d5f4,Cá diêu hồng nướng gừng sả,Món ăn,Món chính,Đau đầu,180.0,2.0,20.0,8.0,0.0,0.4,0.01,0.03,1.0,0.1,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d5f5,Cá thu rim gừng ớt,Món ăn,Món chính,Đau đầu,200.0,5.0,18.0,10.0,0.0,0.4,0.01,0.03,2.0,0.1,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d5f6,Sinh tố dưa hấu cà rốt,Đồ uống,Sinh tố,Đau đầu,70.0,16.0,1.0,0.0,2.0,0.1,0.04,0.0,10.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d5f7,Sinh tố dưa hấu sữa tươi,Đồ uống,Sinh tố,Đau đầu,90.0,18.0,2.0,1.0,1.0,0.1,0.03,0.0,12.0,0.01,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d5f7,Sinh tố dưa hấu sữa tươi,Đồ uống,Sinh tố,Đau đầu,90.0,18.0,2.0,1.0,1.0,0.1,0.03,0.0,12.0,0.01,0.002,"Calo: 90, Carbohydrate: 18, Protein: 2, Fat: 1, Fiber: 1, Sodium: 0.1, VitaminC: 0.03, Purine: 0, Sugar: 12, Cholesterol: 0.01, Iron: 0.002",static/uploads/dishes/Sinh_to_dua_hau_sua_tuoi3.png,"Dưa hấu 1 Kg
+Chanh 1 Trái
+Sữa tươi 300 ml","Bổ đôi trái dưa hấu, chẻ nhỏ múi cau rồi cắt lấy phần thịt trái dưa hấu, tiếp tục cắt nhỏ thịt dưa hấu rồi cho tất cả vào máy xay sinh tố.
+Đổ vào máy xay sinh tố thêm khoảng 2 hộp sữa tươi có đường và xay cùng cho dưa hấu mịn. Nếu bạn sử dụng dưa hấu có hạt thì nên lược sinh tố qua rây ở giai đoạn này để loại bỏ hạt nhé
+Chanh tươi vắt lấy nước cốt. Cho thêm nước cốt chanh tươi lượng vừa đủ theo khẩu vị của gia đình bạn vào và khuấy đều lên. Rót sinh tố dưa hấu ra cốc, thêm đá uống lạnh sẽ ngon hơn.
+Thế là ly thức uống sinh tố dưa hấu sữa tươi đã được hoàn tất và sẵn sàng phục vụ giải khát trong những ngày nắng nóng rồi nhé! Ngoài việc giúp giải khát và bổ sung nhiều vitamin chất sơ cho cơ thể thì sinh tố dưa hấu còn có thể giúp chị em giảm được cân hiệu quả nữa đấy!",2024-11-28 07:53:04.878,2024-12-08 17:42:55.558
 67441138c36b585cf943d5f8,Cháo tôm khoai lang và nấm,Món ăn,Món khác,Máu nhiễm mỡ,150.0,20.0,8.0,3.0,3.0,0.3,0.02,0.02,2.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d5f9,Súp thịt gà khoai lang tím đậu hũ non,Món ăn,Món khác,Máu nhiễm mỡ,170.0,15.0,12.0,6.0,2.0,0.3,0.02,0.02,2.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d5fa,Sữa macca khoai lang yến mạch,Đồ uống,Sữa hạt,Máu nhiễm mỡ,120.0,18.0,2.0,4.0,2.0,0.1,0.01,0.0,8.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -1004,7 +1377,16 @@ Cháo chín mềm múc ra tô, thêm chà bông, hành lá và tiêu",2024-11-28
 67441138c36b585cf943d656,Cháo hạt dẻ,Món ăn,Món khác,Gút,150.0,30.0,3.0,3.0,2.0,0.1,0.01,0.0,3.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d657,Nước ép nho và táo,Đồ uống,Nước ép,Gút,60.0,15.0,0.0,0.0,0.5,0.1,0.02,0.0,12.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d658,Nước chanh ổi dâu tây,Đồ uống,Nước ép,Gút,45.0,12.0,0.0,0.0,1.0,0.1,0.05,0.0,10.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d659,Cà ri bí ngô đậu xanh và chuối,Món ăn,Món chay,Gút,200.0,30.0,5.0,8.0,4.0,0.3,0.03,0.0,5.0,0.0,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d659,Cà ri bí ngô đậu xanh và chuối,Món ăn,Món chay,Gút,200.0,30.0,5.0,8.0,4.0,0.3,0.03,0.0,5.0,0.0,0.004,"Calo: 200, Carbohydrate: 30, Protein: 5, Fat: 8, Fiber: 4, Sodium: 0.3, VitaminC: 0.03, Purine: 0, Sugar: 5, Cholesterol: 0, Iron: 0.004",static/uploads/dishes/ca-ri-chuoi-sap.jpg,"625g bí ngô, 15 ml dầu ô liu, 1 củ hành tây, 1 củ tỏi, 10 g gừng tươi, 5 g bột mùi, 12 g bột cà ri, 2.5 g bột nghệ, 2.5 g bột quế, 2 quả cà chua, 300 ml nước hầm rau củ, 375 g đậu xanh, 2 quả chuối sáp, muối.","Bước 1: Sơ chế nguyên liệu:
+Bí ngô gọt vỏ rồi cắt miếng vừa ăn;
+Đậu xanh ngâm trong nước nóng khoảng 1 tiếng;
+Hành tây bóc vỏ rồi xắt mỏng;
+Tỏi, gừng bóc vỏ, băm nhuyễn;
+Cà chua rửa sạch rồi cắt múi cau.
+Bước 2: Đun nóng 10 ml dầu ô liu. Khi dầu nóng, phi thơm hành tây, tỏi, gừng rồi thêm bột nghệ, bột quế, bột cà ri, bột mùi vào đảo đều;
+Bước 3: Sau 3 phút, cho cà chua, đậu xanh và nước hầm rau củ vào nồi, đậy vung và hầm trong khoảng 15 phút. Trong khi chờ đợi, đun nóng lượng dầu còn lại rồi xào sơ bí đỏ trong khoảng 5 phút;
+Bước 4: Sau 15 phút, trút phần bí đỏ đã nấu vào nồi rồi tiếp tục hầm khoảng 20 phút cho đến khi bí mềm;
+Bước 5: Khi bí chín mềm, bóc vỏ chuối rồi xắt lát dày cho vào nồi cà ri, tiếp tục đun khoảng 5 phút. Sau đó, nêm muối vừa ăn rồi tắt bếp.",2024-11-28 07:53:04.878,2024-12-08 16:04:13.403
 67441138c36b585cf943d65a,Cháo hẹ,Món ăn,Món khác,Gút,90.0,18.0,2.0,0.0,1.0,0.2,0.01,0.0,1.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d65b,Trứng xào lá lốt,Món ăn,Món khác,Gút,150.0,4.0,8.0,10.0,1.0,0.3,0.01,0.02,1.0,0.2,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d65c,Bắp cải trộn,Món ăn,Món chay,Gút,80.0,10.0,2.0,3.0,2.0,0.2,0.03,0.0,2.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -1020,7 +1402,10 @@ Cháo chín mềm múc ra tô, thêm chà bông, hành lá và tiêu",2024-11-28
 67441138c36b585cf943d666,Cơm súp lơ và rau củ,Món ăn,Món khác,Gút,100.0,15.0,3.0,2.0,3.0,0.2,0.03,0.0,2.0,0.0,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d667,Bánh mì nướng ăn kèm đậu nghiền,Món ăn,Món khác,Gút,200.0,25.0,8.0,6.0,3.0,0.3,0.01,0.0,2.0,0.0,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d668,Sandwich tôm với trứng và bơ,Món ăn,Món khác,Gút,250.0,25.0,15.0,12.0,2.0,0.4,0.01,0.02,2.0,0.2,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d669,Sinh tố cải bó xôi với bơ,Đồ uống,Sinh tố,Gút,140.0,10.0,3.0,8.0,3.0,0.1,0.04,0.0,5.0,0.0,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d669,Sinh tố cải bó xôi với bơ,Đồ uống,Sinh tố,Gút,140.0,10.0,3.0,8.0,3.0,0.1,0.04,0.0,5.0,0.0,0.003,"Calo: 140, Carbohydrate: 10, Protein: 3, Fat: 8, Fiber: 3, Sodium: 0.1, VitaminC: 0.04, Purine: 0, Sugar: 5, Cholesterol: 0, Iron: 0.003",static/uploads/dishes/Sinh_to_cai_bo_xoi_voi_bo.jpg,"1/2 quả dưa chuột, 1 quả táo xanh, 100 g cải bó xôi, 15 ml nước chanh, 10 g bột tảo xoắn, 400 ml nước dừa, 100 g bơ.","Bước 1: Sơ chế nguyên liệu:
+Dưa chuột và cải bó xôi rửa sạch rồi cắt miếng;
+Táo và bơ rửa sạch, gọt vỏ bỏ hạt rồi cắt hạt lựu.
+Bước 2: Cho dưa chuột, cải bó xôi, táo, bơ, nước chanh, bột tảo xoắn và nước dừa và máy xay. Sau khi sinh tố xay nhuyễn, đổ ra ly và thưởng thức.",2024-11-28 07:53:04.878,2024-12-08 17:45:49.577
 67441138c36b585cf943d66a,Nước ép dưa chuột với quất,Đồ uống,Nước ép,Gút,30.0,8.0,0.0,0.0,0.5,0.1,0.03,0.01,6.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d66b,Cá tra tẩm gia vị,Món ăn,Món chính,Gút,180.0,0.0,20.0,10.0,0.0,0.5,0.0,0.15,0.0,0.07,0.005,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d66c,Salad cam và óc chó,Món ăn,Món khác,Gút,120.0,10.0,2.0,8.0,3.5,0.2,0.06,0.01,11.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -1130,7 +1515,7 @@ Sau khi xương gà đã ninh kĩ vớt xương ra cho gạo tẻ, gạo nếp, 
 Tiếp theo bắc chảo lên bếp cho chút dầu ăn phi thơm hành khô cho thịt gà vào đảo đến khi thịt gà chín rồi tắt bếp rồi múc riêng ra bát
 Sau đó lấy một nồi nhỏ bạn cho hạt sen vào luộc chín mềm rồi vớt ra để ráo nước
  Khi cháo được bạn cho tất cả các nguyên liệu vào nồi cháo tiếp tục đun cho tới khi tất cả nguyên liệu đều chín nhừ, thấm đều vào nhau. Bạn nêm nếm lại gia vị tùy theo độ tuổi và khẩu phần ăn của bé. Như vậy đã hoàn thành món cháo gà cà rốt hạt sen rồi đấy.",2024-11-28 07:53:04.878,2024-12-01 14:10:27.338
-67441138c36b585cf943d695,Cháo gà rau ngót,Món ăn,Món khác,Gút,160.0,22.0,8.0,3.0,2.5,0.5,0.03,0.03,1.0,0.05,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d695,Cháo gà rau ngót,Món ăn,Món khác,Gút,160.0,22.0,8.0,3.0,2.5,0.5,0.03,0.03,1.0,0.05,0.004,null,static/uploads/dishes/chao_ga_rau_ngot.jpg,null,null,2024-11-28 07:53:04.878,2024-12-11 17:32:16.715
 67441138c36b585cf943d696,Cháo gà súp lơ xanh,Món ăn,Món khác,Gút,170.0,20.0,10.0,3.0,2.5,0.5,0.03,0.03,1.0,0.05,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d697,Cá hồi hấp nấm,Món ăn,Món chính,Gút,220.0,4.0,22.0,12.0,1.0,0.4,0.01,0.2,0.0,0.07,0.005,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d698,Thịt băm sốt cà chua,Món ăn,Món chính,Gút,150.0,6.0,12.0,8.0,1.0,0.6,0.01,0.05,3.0,0.08,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -1233,7 +1618,21 @@ Sau đó lấy một nồi nhỏ bạn cho hạt sen vào luộc chín mềm r�
 67441138c36b585cf943d6f9,Xôi củ dền,Món ăn,Món khác,Thiếu máu,180.0,25.0,5.0,3.0,2.5,0.3,0.02,0.01,3.0,0.0,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d6fa,Mì Ý sốt củ dền,Món ăn,Món khác,Thiếu máu,200.0,30.0,6.0,5.0,2.5,0.4,0.02,0.02,4.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d6fb,Kem dâu tây mâm xôi củ dền,Món ăn,Ăn vặt,Thiếu máu,130.0,25.0,2.0,4.0,1.5,0.1,0.05,0.01,22.5,0.1,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d6fc,Latte củ dền,Đồ uống,Loại khác,Thiếu máu,100.0,15.0,2.0,3.0,0.5,0.2,0.01,0.01,12.5,0.05,0.001,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d6fc,Latte củ dền,Đồ uống,Loại khác,Thiếu máu,100.0,15.0,2.0,3.0,0.5,0.2,0.01,0.01,12.5,0.05,0.001,"Calo: 100, Carbohydrate: 15, Protein: 2, Fat: 3, Fiber: 0.5, Sodium: 0.2, VitaminC: 0.01, Purine: 0.01, Sugar: 12.5, Cholesterol: 0.05, Iron: 0.001",static/uploads/dishes/latte-cu-den-1.jpg,"Dền 1 củ
+ Sữa hạnh nhân 300 ml
+ Bột gừng 1/4 muỗng cà phê
+ Bột quế 1/4 muỗng cà phê
+ Bột nhục đậu khấu 1/4 muỗng cà phê
+(hay nhục quả y/ngọc hoa quả)
+ Nước đường nâu 2 muỗng cà phê","Ép nước củ dền
+Củ dền mua về rửa sạch, gọt vỏ, xắt thành từng khối, bỏ vào máy ép, ép lấy 50ml phần nước ép củ dền.
+Làm latte củ dền
+Cho bột gừng, bột quế, bột nhục đậu khấu vào nồi, khuấy trên lửa vừa khoảng vài giây, sau đó cho sữa hạnh nhân, nướp ép củ dền, nước đường vào.
+Khuấy đều và đun sôi hỗn hợp đến khi hỗn hợp hòa tan hết vào nhau thì tắt bếp. Cho ra ly và thưởng thức.
+Mách nhỏ: Nếu không dùng sữa hạnh nhân, bạn cũng có thể dùng các loại sữa hạt khác để thay thế nhé! Nhưng mùi vị món latte sẽ có khác đi một chút đấy, vẫn khuyến khích bạn dùng đúng loại sữa để đảm bảo hương vị hơn nha.
+Thành phẩm
+Món latte này ngon hơn khi dùng nóng, vì khi đó bạn sẽ cảm nhận được vị béo của sữa hạt hạnh nhân hòa cùng vị thanh của củ dền, chút thơm thoảng của các loại bột.
+Món nước vừa thơm ngon lại vừa tốt cho sức khỏe, có công dụng bổ máu cho cơ thể, giúp tăng sức đề kháng.",2024-11-28 07:53:04.878,2024-12-08 17:53:17.458
 67441138c36b585cf943d6fd,Gỏi khổ qua chay,Món ăn,Món chay,,150.0,10.0,8.0,10.0,4.0,0.5,0.06,0.0,2.0,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d6fe,Khổ qua chiên giòn,Món ăn,Món chay,,150.0,15.0,3.0,10.0,4.0,0.5,0.03,0.01,2.0,0.0,0.001,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d6ff,Khổ qua sốt cà chua,Món ăn,Món chay,,120.0,20.0,4.0,5.0,3.0,0.8,0.025,0.01,4.0,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878

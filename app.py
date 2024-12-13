@@ -1011,7 +1011,7 @@ def recommend_dishes_by_health(calories, carbs, protein, fat, fiber, Sodium, Vit
     data_scaled = scaler.fit_transform(filtered_data[features])
 
     # Initialize the KNN model
-    knn_model = NearestNeighbors(n_neighbors=30, algorithm="brute", metric="cosine")
+    knn_model = NearestNeighbors(n_neighbors=30, algorithm="auto", metric="cosine")
     knn_model.fit(data_scaled)  # Fit the model on the entire dataset
     
     # filtered_data = data[data['status'] == health_condition]
